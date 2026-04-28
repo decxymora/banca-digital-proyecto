@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 # Configuración de conexión a MySQL
 # Cambia la contraseña si ninguna funciona
 USUARIO    = 'root'
-CONTRASENA = 'root'       # Prueba primero con esta
+CONTRASENA = 'root'      
 HOST       = 'localhost'
 PUERTO     = '3306'
 BD         = 'BANCA_DIGITAL'
@@ -19,12 +19,13 @@ try:
         print("Conexión exitosa a MySQL")
 except Exception as e:
     print("Error de conexión:", e)
-    print("Intenta cambiar CONTRASENA a '1234'")
+   
 
     # Ruta de los archivos limpios
+    
 RUTA = r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\\'
 
-# Orden de carga — respeta las dependencias entre tablas
+# Orden de carga — debo respetar las dependencias entre tablas
 # Las tablas que tienen FK deben cargarse después de sus tablas padre
 tablas = [
     ('departamentos',          'bd_DEPARTAMENTOS_limpio.csv'),
