@@ -1,0 +1,6 @@
+datos_originales/
+datos_limpios/
+__pycache__/
+*.pyc
+desktop.ini
+Thumbs.db
