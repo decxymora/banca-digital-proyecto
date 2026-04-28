@@ -1,0 +1,15 @@
+ID;Nombre de la Transacción;Naturaleza;Descripción o Ejemplo
+1;Transferencia ACH (Otros Bancos);SALIDA;Envío de dinero a una entidad diferente.
+2;Transferencia Misma Entidad;SALIDA;Traslado a otro cliente del mismo banco.
+3;Transferencia Transfiya;SALIDA;Envío inmediato usando solo el número de celular.
+4;Pago de Servicios Públicos/Privados;SALIDA;Convenios de luz, agua, internet, etc.
+5;Retiro en Corresponsal Bancario;SALIDA;Retiro de efectivo en puntos físicos (Efecty, Éxito).
+6;Retiro en Cajero Automático;SALIDA;Disposición de efectivo en ATM.
+7;Cobro GMF (4x1000);SALIDA;Impuesto del Gobierno Nacional sobre retiros.
+8;Pago con Tarjeta Débito (Franquicia);SALIDA;Compras en datáfonos o comercios online.
+9;Avance con Tarjeta de Crédito;ENTRADA;Retiro de efectivo usando el cupo de la tarjeta.
+10;Abono de Nómina;ENTRADA;Recepción del salario por parte de la empresa.
+11;Transferencia Recibida (ACH/Transfiya);ENTRADA;Dinero que entra desde otro banco o persona.
+12;Consignación por Ventanilla;ENTRADA;Depósito físico de efectivo en oficina.
+13;Pago Obligación (Tarjeta/Crédito);SALIDA;Abono mensual a la deuda del activo.
+14;Bolsillo / Ahorro Programado;NEUTRO;Traslado interno para separar dinero (Nequi/Daviplata).

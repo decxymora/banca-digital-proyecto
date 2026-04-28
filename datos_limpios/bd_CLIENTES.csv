@@ -1,0 +1,1000 @@
+id_cliente,id_ciudad,nombre,apellido,tipo_documento,numero_documento,fecha_nacimiento,direccion,email,telefono,estado
+7702,687,leandra anna,malo alba,CE,208864344,1984-12-08,Cl 154 Cr 43I,uraeus@mac.com,+57 322 551 01 83,Activo
+5474,156,severo,granados iglesia,CC,502999179,1986-08-12,Cl 79 Cr 114,bhima@me.com,(+57)3271408397,Activo
+1764,553,lucho,andreu amat,CE,567977259,1990-04-16,Cl 195 Cr 30,psichel@sbcglobal.net,+573199935841,Activo
+5445,951,matias mauricio,castillo barrera,CC,451297548,1996-12-02,Cl 143 Cr 95,tbeck@optonline.net,+57 327 100 59 02,Activo
+9717,768,mauricio,guijarro castello,CC,882642463,1984-05-14,Cl 18 Cr 148X,eegsa@yahoo.ca,+57 323 418 15 37,Activo
+9015,998,isaura leyre,aviles pelayo,CC,718354524,1987-04-18,Cl 46 Cr 38I Bis,barlow@verizon.net,(+57) 606 681 71 81,Activo
+8774,629,soraya,morera lago,CC,936630567,1990-11-27,Cl 23W Cr 66F Bis C,wkrebs@me.com,(+57)3258777273,Activo
+6526,740,victoriano,tapia cabanillas,CE,460366691,1981-03-06,Cl 195O Cr 50,dleconte@outlook.com,+57 604 922 91 51,Activo
+9028,594,nidia,saez campoy,CC,335695694,1980-04-28,Cl 4T Cr 7ª,flakeg@verizon.net,+573039223065,Activo
+3949,477,teofila,villanueva molina,CC,194296487,1987-01-04,Cl 160J Cr 21S,slaff@icloud.com,(+57)3143559139,Activo
+6619,374,trini,de alberdi,CC,426664488,1990-12-04,Cl 2ª Cr 39J,uncle@hotmail.com,+57 312 682 95 28,Activo
+6975,380,dani,baena,Pasaporte,101192429,1977-10-20,Cl 42 Cr 181X,vsprintf@hotmail.com,(+57)6022864047,Bloqueado
+2455,415,angelina,de arregui,CC,92543238,2000-02-21,Cl 172E Cr 68,chinthaka@yahoo.ca,+57 308 439 97 08,Activo
+7500,391,samuel,de carranza,CC,92793569,1999-05-16,Cl 23 Cr 10,ntegrity@optonline.net,+576059927812,Activo
+5784,978,jacinta,montenegro garces,CC,679617860,1994-03-13,Cl 76 Cr 75W,yangyan@yahoo.ca,+573255729154,Activo
+1445,573,lisandro,delgado nadal,CC,70538940,1980-04-18,Cl 195O Cr 47,ilyaz@me.com,(+57) 303 928 04 35,Activo
+6773,866,samanta,manjon godoy,CC,590387204,1980-03-03,Cl 8Y Cr 9ª,njpayne@hotmail.com,(+57) 325 303 07 23,Activo
+2173,809,albano teodosio,canete rosa,CC,171405051,1981-04-04,Cl 123 Cr 42,ralamosm@gmail.com,(+57) 327 799 25 03,Activo
+2665,150,abel,villanueva,CC,609519360,1988-06-12,Cl 20 Cr 90,bartak@sbcglobal.net,+57 601 300 06 31,Activo
+4955,669,bienvenida,pulido cozar,CC,368438134,1994-01-21,Cl 3ª Cr 93,improv@me.com,(+57)3059072894,Inactivo
+1190,273,patricio,manzano pomares,CE,197404926,1979-07-01,Cl 2ª Cr 23,arnold@live.com,(+57) 313 510 11 80,Bloqueado
+9662,275,modesto,de casares,CC,407890328,1975-12-13,Cl 1ª Cr 69,ismail@comcast.net,(+57) 607 360 51 35,Activo
+4434,279,berto,del morales,CC,826150761,1987-10-30,Cl 68 Cr 42P,wilsonpm@aol.com,(+57) 315 319 28 79,Inactivo
+3123,129,nuria daniela,jauregui tejero,CC,770683339,1979-07-02,Cl 47J Cr 90O,barjam@icloud.com,(+57)3126571753,Activo
+6473,231,anastasia,pedrero solera,CC,614472978,1986-08-29,Cl 57 Cr 185,michiel@msn.com,(+57)3175083920,Activo
+7527,600,purificacion salome,ferran valero,CC,3767922,1984-09-29,Cl 175O Cr 80,gamma@hotmail.com,(+57)6051230193,Activo
+1302,455,melania,cobos lozano,CC,979760670,1989-04-15,Cl 2ª Cr 122,dhrakar@live.com,+573248926443,Activo
+5576,391,evangelina,font lago,CC,324146877,1978-03-26,Cl 98 Cr 77,themer@icloud.com,+573103784128,Inactivo
+3366,169,otilia,mercader jimenez,CC,970864308,1986-06-21,Cl 63 Cr 155Z,leocharre@me.com,(+57) 606 466 54 83,Activo
+3652,315,nadia,reyes bosch,CC,322534220,1997-03-14,Cl 9 Sur Cr 88,kewley@icloud.com,+573060781612,Activo
+8459,775,mireia,cordoba pi,CC,380631166,1993-10-21,Cl 114K Cr 37,murdocj@mac.com,(+57) 605 864 34 71,Activo
+3203,571,melisa,rueda rosado,CC,570320295,1970-09-28,Cl 80 Cr 4ª,webinc@msn.com,+57 323 917 21 64,Activo
+6298,922,trini,sanabria frias,CC,612605685,1989-05-22,Cl 3ª Cr 41,mrsam@yahoo.ca,+57 306 809 42 89,Activo
+3981,826,lucia manola,briones jove,CC,583781974,1993-11-28,Cl 37 Cr 198,sassen@aol.com,+57 311 420 31 85,Bloqueado
+6089,348,natalio,pereira barrio,CC,892323294,1970-09-19,Cl 67C Cr 2D,emmanuel@att.net,(+57)6038902230,Bloqueado
+6312,225,nerea,alcalde sole,CC,860665154,1984-02-03,Cl 90Q Sur Cr 90,naoya@mac.com,+573127408761,Activo
+5947,559,gracia,goicoechea alba,CC,925904713,1980-12-10,Cl 65H Este Cr 66F,slanglois@hotmail.com,(+57) 319 370 20 65,Inactivo
+6797,310,tono,hidalgo blazquez,CC,682252307,1988-11-24,Cl 1A Bis H Cr 191N,improv@comcast.net,+573274636361,Activo
+5194,438,candida,sedano jimenez,CC,12166718,1981-04-16,Cl 131 Cr 5E,noneme@me.com,+573117917554,Activo
+4669,691,eutimio,barreda cobos,CC,412414461,1999-05-09,Cl 3ª Cr 2ª,majordick@yahoo.com,+57 606 816 32 93,Inactivo
+9098,818,rosario,yuste falcon,CC,326057478,1986-06-24,Cl 183 Cr 65,rgiersig@verizon.net,(+57) 307 551 82 53,Activo
+2913,253,encarnacion,espanol ocana,CC,722686390,1985-03-25,Cl 11V Cr 184 Sur,smartfart@aol.com,(+57) 304 202 03 08,Activo
+3810,981,magdalena,vilaplana esteve,CC,332652215,1991-09-26,Cl 100 Cr 67,jmgomez@verizon.net,+57 323 103 28 82,Activo
+5274,375,adelardo,novoa,CC,960898489,1985-06-12,Cl 39N Cr 52,msherr@yahoo.com,+573297968910,Activo
+5569,882,adoracion,rovira zabala,CC,395498195,1977-10-25,Cl 5G Bis A Cr 7ª,keutzer@sbcglobal.net,(+57) 314 446 32 53,Activo
+8524,769,ovidio,lamas,CC,804870930,2000-03-09,Cl 30 Cr 8 Este,policies@sbcglobal.net,+573280373234,Activo
+1813,992,reyes,julian nogues,CC,676331108,1978-04-07,Cl 1ª Cr 174W,hwestiii@verizon.net,+576022154807,Activo
+1955,431,adoracion,jurado clemente,CC,984163757,1976-12-08,Cl 162 Cr 81,hstiles@mac.com,(+57) 306 673 54 85,Inactivo
+4426,740,placido,zabala feijoo,CC,761357769,1979-01-19,Cl 27 Cr 4ª,xnormal@gmail.com,(+57)3064409864,Activo
+3780,275,abel alex,cueto lopez,CC,356241952,1974-09-07,Cl 157 Cr 8ª,jgmyers@icloud.com,+573067340408,Activo
+9669,539,miguela,sanmiguel paz,CC,796173329,1976-04-12,Cl 6H Cr 8ª,oechslin@aol.com,(+57)3024132842,Activo
+3503,710,narcisa,villaverde montes,Pasaporte,255053202,1998-11-17,Cl 105Y Cr 8 Este,juerd@outlook.com,+573218569759,Activo
+3934,258,leonardo,aller bermudez,CC,187649355,1971-09-16,Cl 42 Cr 69,skippy@icloud.com,+573000421329,Activo
+7257,373,javiera,bartolome torrens,CC,669864604,1992-06-15,Cl 159I Cr 106X,meinkej@hotmail.com,+573120819800,Activo
+2949,965,maria carmen,de fuster,CC,277283219,1973-08-28,Cl 125N Cr 16,staffelb@aol.com,+576047293099,Activo
+7169,764,adan,fonseca marin,CC,595496092,1970-09-16,Cl 6ª Cr 1ª,heckerman@optonline.net,+576083529509,Activo
+6275,882,adalberto,de fabra,CC,89553238,1989-12-23,Cl 27 Cr 125,rjones@verizon.net,+57 300 931 22 91,Activo
+4696,458,rosalinda,jaume romero,CC,527357496,1985-07-25,Cl 52 Cr 178,parrt@verizon.net,(+57) 300 038 64 50,Activo
+8618,541,abigail,enriquez carreras,CC,193097668,1987-04-18,Cl 132F Bis J Cr 74,hampton@icloud.com,+573155352762,Inactivo
+5132,869,africa,morcillo,CC,79092539,1999-02-21,Cl 8ª Cr 7L,claypool@comcast.net,+57 320 431 24 63,Activo
+8086,179,gilberto,cardenas esparza,CC,683156963,1976-03-16,Cl 8 Bis Cr 141,wsnyder@live.com,(+57)3272114169,Activo
+7357,996,marisela,posada jover,CC,450599629,1991-05-21,Cl 3ª Cr 6C Bis,magusnet@aol.com,+576023183362,Activo
+2996,169,begona claudia,coello zabaleta,CC,883969874,1971-05-11,Cl 60 Cr 5ª,danneng@optonline.net,(+57) 301 550 30 61,Activo
+3170,179,marcos,arregui sainz,CC,496852452,1977-04-10,Cl 5ª Cr 184 Sur,smallpaul@aol.com,+576052745435,Inactivo
+4900,683,venceslas,sastre penalver,CC,867996606,1978-09-03,Cl 7ª Cr 132D Bis,staikos@optonline.net,+57 604 192 58 03,Activo
+3517,375,febe,amaya,CC,452493390,1980-07-12,Cl 4ª Cr 65,bryam@outlook.com,+573297464878,Activo
+2661,365,quirino,granados verdugo,CC,802012250,1992-12-19,Cl 1ª Cr 52,ccohen@optonline.net,+57 317 952 84 38,Activo
+7215,136,imelda,de perea,CC,876699650,1977-11-09,Cl 8ª Cr 50,geoffr@aol.com,+57 323 214 01 64,Bloqueado
+4420,114,isidora,de crespi,CC,294691607,1980-02-09,Cl 103J Cr 63X,kludge@comcast.net,(+57)6062766743,Activo
+7325,421,balduino,martin aguila,CC,997750430,1992-10-22,Cl 2ª Cr 72,frikazoyd@att.net,+57 316 420 98 91,Activo
+9581,963,casandra,ramirez canet,CC,537499469,1976-09-18,Cl 5ª Cr 40Y,singer@comcast.net,+573293284366,Activo
+7862,421,eustaquio,vigil gil,CC,903928143,1973-03-28,Cl 191X Sur Cr 4M,rogerspl@aol.com,(+57)3100393868,Activo
+1967,343,elvira,del espinosa,CC,208081071,2000-04-12,Cl 175 Cr 97Q Sur,danzigism@yahoo.ca,(+57) 312 736 29 24,Bloqueado
+1875,738,pia,huertas manzanares,CC,174526489,1972-02-17,Cl 44 Cr 35,empathy@att.net,(+57) 604 676 02 86,Bloqueado
+2639,983,alberto,salas baez,CC,439791521,1991-08-19,Cl 63 Cr 72J,jrifkin@mac.com,+57 302 304 16 32,Activo
+8119,555,sol,rosales calvo,CC,601222579,1982-08-07,Cl 129 Cr 145,sagal@icloud.com,(+57) 301 943 73 61,Inactivo
+5457,185,guiomar,folch sanjuan,CC,467933936,1984-12-08,Cl 19 Avenida Cristian Sebastian Lopez Acosta,durist@sbcglobal.net,+57 318 602 28 33,Activo
+6099,653,nidia,pardo nunez,CC,948549318,1989-07-05,Cl 4D Cr 170,msloan@msn.com,(+57) 316 983 88 76,Activo
+6119,988,emperatriz sabina,pastor pedrero,CC,987438734,1974-02-03,Cl 39 Cr 148,ilikered@mac.com,+57 311 290 22 56,Activo
+4936,712,ximena,jurado mata,CE,746937510,1994-04-09,Cl 62 Cr 95D,tlinden@live.com,(+57)3098047572,Activo
+9092,688,eugenio,aranda falcon,CC,226690741,1998-04-05,Cl 56 Cr 98,citizenl@yahoo.ca,(+57) 322 730 60 18,Activo
+9753,903,felicia,del palomo,CC,209969658,1985-08-14,Cl 38 Cr 10I Bis U,pajas@yahoo.com,+57 314 507 17 32,Activo
+7521,156,abel,uribe cerro,CC,920066,1990-06-16,Cl 2ª Cr 21F Bis,british@me.com,(+57)3080306093,Activo
+1415,662,andres,felipe prado infante,CC,672403364,1993-03-22,Cl 189 Cr 33,chaffar@aol.com,(+57) 608 895 48 63,Activo
+9376,573,jordi,de perea,CC,818417641,1997-01-02,Cl 2U Este Cr 2ª,parkes@hotmail.com,+57 308 217 06 19,Activo
+3730,439,ricarda,escriva cervera,CC,387532465,1971-02-27,Cl 170 Cr 177,sjava@yahoo.ca,(+57) 305 296 22 03,Activo
+3221,832,socorro,morales guerrero,CC,550046825,1986-06-25,Cl 53 Cr 3T Bis,jipsen@outlook.com,(+57) 309 336 03 50,Activo
+9354,777,asuncion agata,gutierrez morera,CC,99768801,1974-04-29,Cl 29R Cr 189,lahvak@optonline.net,(+57)3165530671,Activo
+1522,970,jesus,frias ibanez,CC,314196341,1990-07-06,Cl 69 Cr 150,mlewan@yahoo.com,+573097199178,Activo
+3938,475,teodosio,nino,CC,998597965,1982-07-30,Cl 89A Cr 5ª,zwood@verizon.net,(+57) 306 921 86 50,Inactivo
+3136,903,susana,vizcaino nunez,CC,990383674,1995-01-16,Cl 118 Cr 4ª,kassiesa@hotmail.com,+576059636880,Activo
+3566,455,abilio,cuellar rovira,CC,769667186,1993-07-17,Cl 3ª Cr 133,rnewman@hotmail.com,+57 605 580 25 63,Activo
+3468,326,adora,alberto rebollo,CC,464497757,1970-09-10,Cl 174Q Cr 66K,jaxweb@gmail.com,+576023800481,Activo
+8028,513,primitivo,jaen garces,CC,974103316,1995-02-13,Cl 138T Cr 47,eidac@aol.com,+573002545695,Activo
+8154,633,delfina,donoso,CC,248242001,1996-04-11,Cl 1ª Cr 65,lishoy@gmail.com,+57 317 234 04 09,Activo
+1399,790,julio,fuster vigil,CC,390653451,1995-03-16,Cl 3ª Cr 1ª,delpino@aol.com,(+57) 310 729 38 24,Activo
+7528,210,cintia,carballo bayona,CC,251742161,1987-09-03,Cl 73B Cr 153T,catalog@att.net,(+57) 606 559 63 17,Activo
+7047,309,fortunata,pascual ribas,CC,882257341,1988-01-06,Cl 102 Cr 190,hoyer@hotmail.com,(+57) 605 390 70 54,Activo
+2659,139,lilia,figuerola bauzà,CC,744802281,1977-08-26,Cl 129 Cr 59P,esokullu@live.com,+57 320 858 01 99,Activo
+8865,514,pili,morell oliver,CC,56621512,1973-08-06,Cl 3ª Cr 196Y,heidrich@hotmail.com,+57 325 796 71 59,Activo
+2283,260,estrella,penas benito,CC,838541571,1982-08-26,Cl 159K Cr 67,kohlis@live.com,(+57)3044974211,Activo
+2932,992,maria angeles,roura carnero,CC,544594231,1987-07-05,Cl 9ª Cr 161,corrada@att.net,(+57)3238849559,Activo
+1021,282,violeta violeta,lamas sarabia,CE,698275330,1990-01-11,Cl 122 Cr 7ª,chaffar@sbcglobal.net,+57 605 573 65 33,Activo
+1274,653,ruben,marquez belda,CE,987250874,1981-09-22,Cl 93D Bis Cr 118M,josem@hotmail.com,+57 609 304 12 44,Activo
+2615,988,manola,criado,Pasaporte,286391706,1985-07-08,Cl 16 Cr 18,jsmith@mac.com,+57 605 896 85 69,Activo
+5875,553,rita,asensio salgado,CC,367542251,1990-02-02,Cl 13 Bis Cr 161J,hmbrand@hotmail.com,+573161610305,Activo
+5053,704,daniela,cabello valles,CC,120729892,1982-10-26,Cl 3B Cr 8R,corrada@gmail.com,+57 320 320 33 43,Activo
+9687,529,nicolasa aurelia,lasa puig,CC,767502796,1979-03-31,Cl 46 Cr 87B,bryam@icloud.com,(+57) 314 774 94 87,Activo
+6995,541,jonatan,trillo larranaga,CC,708431528,1991-05-05,Cl 10I Bis Cr 113,gmcgath@hotmail.com,(+57) 310 187 55 46,Inactivo
+4868,664,jose francisco,alvarado pombo,CC,873392517,1999-06-17,Cl 72 Cr 108L,fukuchi@yahoo.com,+573114324062,Bloqueado
+4941,649,samanta casandra,borrell maestre,CC,158447200,1970-01-23,Cl 52 Cr 3 Bis,jshearer@mac.com,+573021972204,Activo
+1519,451,emilia maria luisa,lluch vives,CC,351780289,1980-06-22,Cl 2 Bis Cr 80,phish@live.com,+57 609 734 85 95,Activo
+1006,850,esteban,guillen mena,CC,785607503,1974-07-23,Cl 68 Cr 65,manuals@aol.com,+57 319 140 54 10,Activo
+8715,879,josue,rocha juan,CC,878078462,1993-01-31,Cl 43 Cr 6ª,meder@outlook.com,(+57)3166688732,Activo
+1196,590,encarnacion,aleman prats,CC,22052360,1995-01-31,Cl 3D Bis P Cr 184 Sur,gomor@icloud.com,+573172381692,Activo
+1106,738,celia,verdu,CC,904705295,1990-08-09,Cl 126W Cr 129,hauma@gmail.com,+57 302 876 32 80,Activo
+5686,514,espiridion,del vinas,CC,978184419,1983-08-19,Cl 83 Cr 16,godeke@yahoo.ca,(+57) 308 878 12 20,Activo
+5870,131,melania,lobato mena,CC,975840573,1983-04-01,Cl 6ª Cr 5ª,jdhedden@mac.com,+57 314 234 15 37,Activo
+4978,153,sosimo,roig bayo,CC,624432666,1988-04-26,Cl 8ª Cr 2ª,tbeck@gmail.com,+57 324 327 70 78,Activo
+6806,646,abel,carrasco belda,CE,962818168,1978-08-03,Cl 95 Cr 165L,bryanw@outlook.com,+57 602 309 13 48,Activo
+2029,959,alicia celestina,ibanez santana,CC,129937100,1989-11-26,Cl 61 Cr 67F,draper@me.com,+573290608791,Activo
+7461,731,conrado,torre,CC,529003840,1993-08-10,Cl 5ª Cr 91K,anicolao@optonline.net,(+57) 313 905 90 43,Bloqueado
+9693,712,leoncio,pombo nadal,CC,924214259,1971-05-29,Cl 66C Cr 190,mxiao@comcast.net,+573068760640,Activo
+5802,251,marcia,tomas,CC,30614125,1995-11-14,Cl 126 Sur Cr 60,mleary@yahoo.ca,+573234746661,Bloqueado
+8775,832,aurelia,del ocana,CC,273279965,1972-09-22,Cl 59 Cr 48,louise@comcast.net,+576016463257,Activo
+1087,594,porfirio,cases fabregat,CC,971330578,1978-12-12,Cl 13 Cr 63S,solomon@gmail.com,+57 324 996 84 93,Activo
+9636,938,maristela,marmol,CC,121183401,1999-10-15,Cl 48 Cr 27,dgatwood@live.com,(+57) 315 576 78 08,Activo
+5076,744,leticia,azorin cortina,CC,46415335,1999-09-22,Cl 77 Cr 166,augusto@outlook.com,(+57) 312 074 79 89,Activo
+3391,158,regulo,de sacristan,Pasaporte,327991210,1975-08-20,Cl 96 Cr 57,rafasgj@msn.com,(+57) 313 892 13 53,Activo
+7427,417,esteban,del muniz,CE,407329007,1973-09-03,Cl 140 Cr 98 Bis N,solomon@yahoo.ca,(+57)6081524341,Activo
+9841,772,trinidad,exposito abella,CC,844654830,1997-03-18,Cl 56 Cr 177B Bis,kildjean@aol.com,+57 329 320 45 35,Activo
+2771,993,panfilo,ortiz pardo,CC,270439426,1974-03-17,Cl 8G Cr 3ª,andersbr@att.net,+57 324 275 38 41,Activo
+6006,185,glauco,llorens alvarez,CE,226436654,1987-01-05,Cl 35 Cr 92,moonlapse@sbcglobal.net,(+57) 306 365 80 12,Bloqueado
+8341,254,susanita,zaragoza higueras,CC,814585656,1970-03-01,Cl 2E Cr 34,schwaang@mac.com,(+57) 605 973 18 61,Inactivo
+2715,279,ileana asuncion,beltran samper,CC,671011726,1997-12-28,Cl 87 Cr 164 Bis,geekoid@yahoo.ca,(+57)3042714309,Activo
+8879,135,chus,merino casas,CC,97686986,1971-12-11,Cl 143M Bis Cr 146,plover@aol.com,(+57) 314 479 75 73,Activo
+9695,883,carmina,cervera,CC,828000294,1979-04-18,Cl 60B Cr 138X Sur,jhardin@hotmail.com,(+57) 606 338 02 53,Activo
+7505,926,curro,coello izaguirre,CC,699731930,1972-12-25,Cl 1E Cr 74,jdray@hotmail.com,(+57) 327 478 84 06,Activo
+9279,659,mario,roldan,CC,685552881,1977-05-01,Cl 95 Cr 150C,euice@outlook.com,+573151496631,Activo
+3219,179,jesusa,fuentes,CC,950487862,1999-01-06,Cl 9ª Cr 11,camenisch@yahoo.ca,+573165178167,Bloqueado
+1560,558,oscar,dominguez mayol,CE,220352550,1973-12-20,Cl 7D Cr 42T,lamky@hotmail.com,(+57) 323 345 99 44,Activo
+2719,306,angelino,contreras pi,CC,939276895,1986-09-28,Cl 18 Cr 56,alastair@att.net,+57 607 454 58 36,Activo
+3904,467,rafa,camino perello,CC,597877644,1994-10-28,Cl 38 Cr 90,british@comcast.net,+573067212328,Activo
+3829,847,aura,vidal roma,CC,399044632,1987-11-03,Cl 86 Cr 5ª,rddesign@icloud.com,(+57) 604 539 59 27,Activo
+3433,581,lara jordana,ballester llado,CC,195408687,1974-08-13,Cl 7ª Cr 196 Bis,heckerman@me.com,+573238956043,Inactivo
+5428,343,anibal,castello sarabia,CC,393436379,1992-03-04,Cl 4J Cr 22,rasca@verizon.net,(+57) 321 813 34 86,Activo
+4624,790,adriana,higueras ribes,CC,846375407,1980-05-07,Cl 63 Cr 46,willg@sbcglobal.net,+573196315594,Activo
+8698,444,ernesto,cuadrado mesa,CC,324863677,1987-03-14,Cl 196 Cr 108,bryam@verizon.net,+573000812013,Activo
+4055,763,estela,ponce losada,CC,313558057,1997-01-24,Cl 58 Cr 195,padme@hotmail.com,+57 306 045 66 81,Activo
+5297,462,luis miguel,del tapia,CC,81663391,1971-09-05,Cl 7ª Cr 188,damian@hotmail.com,+57 602 906 87 77,Activo
+5643,505,elpidio,agullo tejero,CC,215119424,1988-08-02,Cl 145 Cr 15,tangsh@me.com,(+57)6082865385,Activo
+1018,421,maria carmen,rodenas acosta,CC,754051476,1970-09-26,Cl 61 Cr 72Q,yamla@outlook.com,(+57) 604 441 06 75,Activo
+6961,900,lucas,vendrell valverde,CC,630034996,1987-12-11,Cl 27 Cr 113,rbarreira@optonline.net,(+57) 315 346 95 65,Activo
+3609,436,gerardo,tome real,CC,61626131,1997-06-05,Cl 36 Cr 148,jrifkin@verizon.net,+576041657949,Activo
+8058,183,elias,sacristan vazquez,CC,763912060,1998-01-31,Cl 152Q Este Cr 108P Bis,dmouse@sbcglobal.net,+573028940537,Activo
+9536,983,victoriano,valencia coloma,CC,611157952,1998-06-05,Cl 39 Cr 114A,tubajon@comcast.net,(+57) 314 860 66 29,Activo
+6938,786,vera,ribes cases,CC,420300337,1996-10-11,Cl 86B Este Cr 37,tjensen@att.net,+57 325 523 06 59,Activo
+9941,365,ligia,moya calleja,CC,817463726,1980-09-29,Cl 13 Cr 79,tristan@live.com,(+57) 326 261 67 78,Activo
+5435,256,evangelina,barragan castell,CC,595800767,1996-01-29,Cl 157W Cr 68,crandall@sbcglobal.net,(+57)3040617479,Activo
+9308,787,florencia domitila,castell mendizabal,CC,951130644,1995-12-05,Cl 29Z Cr 3ª,bester@outlook.com,(+57) 607 903 71 05,Activo
+9990,353,javier,arellano murcia,CC,340821860,1999-04-02,Cl 147P Cr 78,world@yahoo.ca,(+57)6087275224,Activo
+6194,130,aurelia,sans oller,CC,997755991,1991-11-13,Cl 1N Cr 42A,staikos@sbcglobal.net,+57 310 628 64 05,Activo
+3487,124,teodora,jerez tormo,CC,788043326,1994-09-22,Cl 1N Cr 75Q,kludge_3487@comcast.net,+57 326 560 37 56,Activo
+9725,263,cornelio,noguera lluch,CC,685543523,1992-05-01,Cl 60 Cr 5ª,paulv@sbcglobal.net,(+57)3207647714,Activo
+4255,525,carla,serna montalban,CC,101674619,1999-05-05,Cl 174 Cr 91K Sur,jgmyers@sbcglobal.net,+57 307 622 52 29,Activo
+7688,208,macarena valeria,feliu mayol,CC,515928353,1986-07-03,Cl 113 Cr 112,josephw@hotmail.com,+573136194564,Activo
+2423,539,jacinta paz,domingo rivas,CC,686042068,1999-01-28,Cl 18 Cr 19,sopwith@att.net,+57 328 587 91 85,Activo
+9150,380,victor manuel,tejedor nevado,CC,789637431,1986-11-06,Cl 86 Cr 92,sharon@att.net,(+57) 315 337 17 91,Activo
+2660,275,blanca,molina francisco,CC,11695104,1977-06-02,Cl 14 Cr 46,ntegrity@msn.com,+573090099525,Activo
+3103,996,jonatan,fonseca quevedo,CE,663546511,1981-12-22,Cl 6 Este Cr 40W Este,dgriffith@aol.com,+57 603 565 44 49,Activo
+3283,466,humberto,vila,CC,664123326,1995-03-03,Cl 70G Bis Cr 197C,qrczak@verizon.net,(+57) 329 787 02 87,Inactivo
+8978,779,isaura,fuentes guardiola,CC,729078319,1988-04-16,Cl 51 Cr 48,bruck@live.com,(+57) 303 723 50 57,Activo
+7718,904,rufina,vargas andres,CC,473408077,1979-09-04,Cl 77 Cr 20,camenisch_7718@yahoo.ca,(+57) 607 184 83 81,Activo
+3794,260,reinaldo,barral lago,CC,223847711,1984-06-03,Cl 37R Cr 70,mjewell@comcast.net,+57 307 673 32 37,Activo
+9707,181,jose,ignacio vila rios,CC,190629686,1991-04-06,Cl 7ª Cr 154 Bis B,daveed@optonline.net,+57 321 090 46 73,Inactivo
+6934,183,roberto,canovas segura,CC,242879092,1998-02-18,Cl 157 Cr 155,quantaman@hotmail.com,(+57) 605 711 14 11,Activo
+4929,455,romulo,ortega giner,CC,724405320,1980-01-03,Cl 71 Cr 14,szymansk@gmail.com,(+57) 604 451 82 01,Activo
+2301,320,gaston,leon solana,CC,726952720,1971-04-01,Cl 23 Cr 33,jemarch@yahoo.ca,(+57)3035956124,Activo
+2230,769,emilia,jove ropero,CC,431120892,1986-10-11,Cl 42D Cr 95,rhialto@msn.com,+57 317 351 37 18,Activo
+1744,842,calixto,pinedo torrijos,CC,751098431,1993-07-05,Cl 87 Cr 88,flakeg@comcast.net,+57 606 370 49 49,Activo
+7904,605,ciro,ledesma bru,Pasaporte,969124593,1982-03-13,Cl 65 Cr 85,rnewman@optonline.net,(+57)3101176215,Activo
+3244,950,dora,del segarra,CC,246883010,1977-06-16,Cl 5M Bis Cr 84G,jshearer@yahoo.ca,+57 317 765 35 09,Activo
+2887,585,juan bautista,de salazar,CC,151565965,1977-01-30,Av Claudia Nancy Arrieta Cr 7ª,tubesteak@msn.com,(+57) 609 975 49 02,Activo
+6367,305,narciso,del anaya,CC,947180558,1998-10-20,Cl 6ª Cr 154,jsnover@gmail.com,(+57) 303 104 44 50,Activo
+9611,273,martirio reina,malo alonso,CC,88353670,1993-12-25,Cl 174W Cr 3O Sur,chrwin@live.com,+57 607 999 09 16,Activo
+7278,383,maximiliano,maestre mendizabal,Pasaporte,960178884,1987-07-28,Cl 50 Cr 146,jadavis@msn.com,(+57)3007249183,Activo
+9745,900,noa,dominguez llorente,CC,950775637,1977-09-05,Cl 43 Bis Cr 2 Este,stevelim@gmail.com,+573101946574,Activo
+6929,561,miguel,mur cruz,CE,639823820,1988-10-13,Cl 82H Cr 175,zavadsky@verizon.net,+57 301 064 88 54,Activo
+6790,586,gala,gimenez lasa,CC,13782816,1977-08-30,Cl 24 Cr 2ª,mobileip@comcast.net,(+57) 313 196 28 40,Activo
+3258,297,saturnino,palacios lamas,CC,611022513,1970-06-01,Cl 9G Bis Cr 84,lauronen@icloud.com,(+57) 327 690 73 15,Activo
+1286,922,ariel,castellanos bauzà,CC,582792375,1975-11-22,Cl 3ª Cr 92 Sur,matty@att.net,(+57)3061589729,Activo
+6655,590,trinidad,salas gimenez,CC,39552340,1975-05-03,Cl 9ª Cr 59C,simone@mac.com,(+57)3043126185,Activo
+2552,158,adalberto,del seco,CC,369723513,1996-10-29,Cl 36 Cr 7ª,claesjac@verizon.net,+57 305 554 12 63,Activo
+5606,727,eustaquio,palacios francisco,CE,777795895,1989-09-25,Cl 84 Cr 88,goldberg@yahoo.com,+573132998642,Activo
+7100,241,susana,castro ruiz,CC,20271809,1993-10-08,Cl 5ª Cr 11,lahvak@aol.com,(+57)3001685834,Activo
+3210,475,emelina melisa,palau seco,CC,29166795,1998-05-01,Cl 60 Cr 51T Sur,jipsen@sbcglobal.net,+57 607 223 37 04,Inactivo
+5638,910,sandalio,baeza grande,CC,576951272,1995-10-22,Cl 133 Bis G Cr 112P,elmer@mac.com,(+57) 607 548 45 66,Activo
+7864,986,gregorio,guerrero palomino,CC,425599770,1984-02-16,Cl 3ª Cr 19,sisyphus@icloud.com,(+57) 604 615 91 11,Inactivo
+1756,727,socorro,de higueras,CC,143174842,1976-09-02,Cl 69 Cr 6ª,stefano@verizon.net,(+57) 320 574 32 24,Activo
+7408,331,otilia,viana torres,CC,634211899,1998-08-20,Cl 58 Cr 155,muzzy@aol.com,(+57) 308 937 45 66,Activo
+5419,513,luis,guzman alsina,CC,478957366,1972-03-23,Cl 127L Cr 48,bmidd@att.net,+573094038317,Activo
+7458,434,julie,rosa lumbreras,CC,324238467,1972-01-07,Cl 32 Cr 54,dhrakar@outlook.com,(+57) 602 960 05 43,Activo
+5695,185,samu paulino,fabra galvez,CC,372886961,1970-10-30,Cl 63 Sur Cr 170,openldap@mac.com,+576061069464,Activo
+5183,719,vicente,egea sanchez,Pasaporte,676002784,1994-03-10,Cl 87 Cr 194A,dmath@live.com,+573152533865,Activo
+3945,842,juan carlos,del cordero,CC,134489777,1970-02-16,Cl 9ª Cr 115,dobey@msn.com,(+57)3204425345,Activo
+8582,926,carla,blanes espana,Pasaporte,160683519,1972-12-10,Cl 3F Bis Cr 93J,rbarreira@icloud.com,+57 315 838 09 77,Inactivo
+2627,799,toribio,herranz jurado,CC,241983623,1989-12-24,Cl 130Y Sur Cr 55,gilmoure@live.com,+573108373896,Inactivo
+6311,983,america,rosell ferrandiz,CC,691422249,1989-01-28,Cl 95 Cr 54,grady@verizon.net,(+57) 602 331 52 80,Activo
+5264,853,ines,calderon suarez,CC,396565587,1997-10-13,Cl 10V Cr 42,sekiya@gmail.com,(+57)3022290004,Activo
+9603,428,trinidad,leiva ribera,CC,347209386,1972-08-04,Cl 3T Cr 29Z,dogdude@yahoo.com,+57 324 233 05 34,Activo
+4407,697,luisa,saldana pineiro,CC,854457575,1998-04-05,Cl 23 Cr 85,sfoskett@att.net,(+57)6072925583,Inactivo
+7508,920,yago,diez melendez,CC,2665927,1979-11-06,Cl 131 Este Cr 65L,hampton_7508@icloud.com,+57 300 848 92 80,Activo
+8885,225,alberto,rius rius,CC,472375244,1982-03-10,Cl 108Y Bis U Cr 98A,singer@mac.com,(+57)3295500238,Activo
+4428,585,beatriz,jimenez anton,CC,865123235,1982-01-30,Cl 148A Sur Cr 31,pereinar@mac.com,(+57) 308 074 07 71,Activo
+3561,659,adolfo,gaya canales,CC,451513458,1980-05-31,Cl 32K Bis Cr 31,jfreedma@comcast.net,(+57) 320 960 06 78,Activo
+4735,131,teofilo,de nunez,CC,681854298,1995-03-29,Cl 5ª Cr 76,hampton@outlook.com,(+57) 603 178 22 74,Activo
+9074,588,bruno,cabezas cordero,CC,769075266,1975-09-13,Cl 89 Cr 2I Sur,attwood@yahoo.com,+573145659331,Activo
+6166,249,pepe juanito,adan anaya,CC,496935789,1981-02-04,Cl 88 Cr 38,howler@mac.com,+573141940029,Bloqueado
+6853,702,isabela,sole nunez,CC,676785273,1980-01-21,Cl 88 Cr 5N,quantaman@icloud.com,+576016223354,Activo
+8290,655,amaya,izquierdo gonzalo,CC,610982016,1993-05-24,Cl 144 Cr 73,tellis@gmail.com,(+57)6063950103,Activo
+5382,588,gervasio,del galan,CC,327975383,1985-08-16,Cl 150 Cr 33Q Sur,jguyer@verizon.net,(+57) 325 228 50 04,Inactivo
+7774,719,isaac,pujol yanez,CC,898556857,1998-02-25,Cl 81 Cr 5ª,adhere@icloud.com,+573052827826,Activo
+5235,457,valerio,valentin cespedes,CC,285891566,1989-05-05,Cl 72 Bis Cr 129,jaarnial@verizon.net,+573004425712,Activo
+7968,511,cleto,benito mendizabal,CC,822035683,1995-10-11,Cl 8G Cr 7ª,plover@live.com,(+57) 323 519 14 58,Activo
+6172,883,erasmo,cabeza martinez,CC,840416625,1999-05-09,Cl 43 Cr 20,wortmanj@verizon.net,+57 607 123 37 08,Activo
+2508,653,quirino rosario,vazquez carvajal,CC,476509711,2000-01-17,Cl 123 Cr 3ª,violinhi@aol.com,+573223969146,Activo
+9374,182,marcos,alcantara codina,CC,338517373,1992-11-28,Cl 172H Bis Cr 2ª,uncle@sbcglobal.net,+57 300 336 03 03,Activo
+8544,482,paloma,abascal lledo,CE,399798377,1998-05-14,Cl 7R Cr 14,krueger@icloud.com,+573299518684,Inactivo
+8234,333,ana,sofia nadal campo,CC,75462286,1990-04-23,Cl 199G Cr 56,daveewart@optonline.net,(+57)3206375191,Bloqueado
+2753,832,estela,cases peral,CC,697760678,1982-11-06,Cl 3Q Cr 3Z,firstpr@aol.com,(+57)3258762006,Activo
+6143,885,borja,diez zorrilla,CC,922834217,1971-01-28,Cl 132T Este Cr 88I,trieuvan@sbcglobal.net,(+57)3004392427,Activo
+6988,104,eva maria,de bertran,CC,269930371,1992-10-20,Cl 110 Cr 136X,tbusch@gmail.com,+57 315 832 36 34,Activo
+1297,905,elena,del tome,CC,202405684,1984-03-11,Cl 123 Este Cr 125M,yfreund@me.com,(+57) 305 855 26 63,Activo
+5865,584,ivan,de manzanares,CC,821941461,1978-04-13,Av Claudia Carmen Salazar Cr 11,jfmulder@mac.com,+573092843786,Activo
+2848,360,adelina,roma feijoo,CC,307716213,1989-02-21,Cl 106N Este Cr 5H,parrt@mac.com,+57 326 527 52 25,Activo
+8105,472,joel,estevez,CC,605750294,1998-11-07,Cl 10 Cr 25,wiseb@aol.com,(+57)6094516404,Activo
+6364,502,ursula anabel,exposito vazquez,CC,168330538,1999-04-03,Cl 3V Sur Cr 144J,barnett@outlook.com,(+57)3073807470,Activo
+3711,646,manuelita,gilabert manjon,CC,75803971,1988-03-19,Cl 86 Este Cr 8ª,barlow@yahoo.com,(+57)3173401676,Activo
+5893,227,amparo,galvan polo,CC,73354462,1982-05-17,Cl 18R Cr 127,telbij@hotmail.com,(+57) 316 643 65 37,Activo
+3140,798,amparo,del ayuso,CC,164585584,1994-11-12,Cl 37 Cr 6A,dalamb@msn.com,+573141185700,Activo
+8397,387,angelica,del ortuno,CE,273539781,1995-03-11,Cl 86 Cr 16,psichel@live.com,+57 320 459 59 97,Activo
+8679,150,amalia itziar,sebastian revilla,CC,236841522,1980-07-20,Cl 62 Cr 61,cameron@mac.com,(+57) 601 149 21 87,Bloqueado
+7093,809,america,moran penalver,CC,230177413,1984-04-28,Cl 53 Cr 97,klaudon@icloud.com,+57 323 304 37 98,Activo
+5397,997,elisa,de chaparro,CC,418270234,1976-08-15,Cl 4 Bis W Cr 3ª,gavinls@msn.com,(+57)3012357116,Activo
+9236,373,nieves,llado,CC,316651858,1985-11-11,Cl 8 Sur Cr 53R,arathi@comcast.net,+573226106917,Activo
+5027,634,juan,antonio benet,CC,787439400,1988-12-06,Cl 100 Cr 173K Este,parkes@icloud.com,(+57)3036117876,Activo
+8645,738,gustavo,barbera frias,CC,410578244,1991-06-18,Cl 87 Cr 91P,cyrus@aol.com,(+57)3008134270,Activo
+4841,364,eliana,pacheco ponce,CC,820844043,1973-04-08,Cl 3ª Cr 24,isotopian@hotmail.com,(+57) 603 506 44 41,Activo
+6215,543,dalila,pino verdu,CC,488952584,1992-09-21,Cl 64 Cr 178U,marnanel@icloud.com,(+57)3231081651,Activo
+2741,441,marciano,diaz,CC,666742334,1985-04-16,Cl 40L Cr 32 Sur,nwiger@verizon.net,+573136515100,Activo
+3153,118,timoteo,pinilla calderon,CC,398438525,1975-06-05,Cl 57 Cr 57,elmer@comcast.net,(+57) 325 892 62 97,Bloqueado
+4957,231,malena,roma barrena,CC,518886650,1977-08-15,Cl 55 Cr 183A,natepuri@gmail.com,(+57)3067474195,Activo
+2670,543,silvia,leon duque,CE,843676851,1991-04-12,Cl 152 Cr 18,tmaek@gmail.com,+573152579601,Activo
+4932,850,ema,del garrido,CC,808961337,1986-01-24,Cl 98 Cr 105G,manuals@yahoo.ca,+57 326 225 47 88,Activo
+8400,970,eva,gonzalez cano,CE,118872429,1972-11-12,Cl 93 Cr 40,neonatus@live.com,+573081103456,Activo
+4811,698,eutropio,sedano cabanillas,CC,399299006,1987-10-03,Cl 93 Cr 139 Sur,crusader@verizon.net,+573110206214,Activo
+6558,260,dafne,cerdan pujol,CC,555520398,1988-09-24,Cl 33C Cr 49,dogdude@mac.com,+57 307 942 53 93,Activo
+3200,229,oscar,de mascaro,CC,695836620,1989-09-26,Cl 28 Cr 9B,mastinfo@outlook.com,(+57)3228110349,Activo
+8097,332,catalina,peralta patino,CC,524326056,1970-06-26,Cl 162W Bis U Cr 103 Bis,munge@verizon.net,(+57)6024362365,Activo
+1981,703,barbara,elorza jorda,Pasaporte,417370057,1989-11-28,Cl 95Q Cr 94,milton@att.net,+57 601 820 16 92,Activo
+3249,840,loreto,burgos,CC,618830458,1980-05-20,Cl 91 Cr 198,redingtn@hotmail.com,(+57) 302 491 80 94,Activo
+1863,183,estela,marquez arce,CC,638421587,1972-12-18,Cl 4X Sur Cr 37M Bis,fviegas@sbcglobal.net,+573223930378,Activo
+1933,341,paloma,segarra menendez,CC,715584026,1978-03-09,Cl 56 Cr 4Q,rgarcia@live.com,(+57)3220335707,Activo
+1794,926,claudio maximino,cobos cordoba,CE,343830854,1998-01-05,Cl 188H Sur Cr 9ª,ovprit@msn.com,+576046493824,Activo
+2841,610,josefina,rey melendez,CC,959369633,1973-01-12,Cl 1T Cr 95,teverett@att.net,(+57)6019861455,Activo
+5086,708,nilda,de garrido,CC,120307906,1982-12-29,Cl 55 Cr 54X,ghost@yahoo.ca,+57 317 616 47 30,Activo
+7350,479,gregorio,llabres rebollo,CC,38941510,1983-03-30,Cl 29 Cr 6ª,intlprog@verizon.net,(+57)6076742695,Inactivo
+5705,674,edmundo,de marco,CC,220916008,1993-09-28,Cl 8E Cr 4ª,frosal@msn.com,(+57)6092901533,Inactivo
+6869,393,amaya,ruiz campoy,CC,998616093,1985-01-30,Cl 132 Cr 6ª,sabren@comcast.net,+57 323 691 61 34,Activo
+8641,327,nacio,perera lerma,CC,373405527,1995-08-17,Cl 157 Cr 58,hermes@outlook.com,(+57) 304 403 48 57,Activo
+8230,653,damian,vicens cabrera,CC,502081017,1995-11-03,Cl 133W Cr 7D,shrapnull@live.com,(+57) 605 691 88 86,Activo
+9202,928,marcela teofila,arnal lasa,CC,556642030,1999-04-22,Cl 54 Cr 182Z,jimmichie@optonline.net,+573105358057,Inactivo
+6264,610,reina,losada alfonso,CC,724681364,1981-02-19,Cl 47Y Cr 30,bjornk@aol.com,(+57) 305 384 57 35,Inactivo
+8938,852,isa,arenas mariscal,CC,380985447,1972-04-27,Cl 56 Cr 71,ghost@sbcglobal.net,(+57)3285507251,Activo
+6807,973,morena,roura,CC,535349498,1998-09-01,Cl 104 Cr 5ª,curly@icloud.com,(+57) 328 914 68 81,Activo
+7067,834,odalys,benitez,CC,962790808,1996-10-16,Cl 89 Cr 45,jacks@outlook.com,+57 324 377 26 14,Activo
+5447,237,emma,del amor,CC,103480572,1980-10-08,Cl 41W Cr 9L Bis P,mbswan@optonline.net,+573153904955,Activo
+8031,737,seve,villanueva anaya,CE,825885821,1975-02-06,Cl 19 Cr 7T,jelmer@gmail.com,(+57) 303 193 79 26,Activo
+6340,653,montserrat,armas salamanca,CC,488352265,1994-03-11,Cl 24 Cr 39,podmaster@yahoo.com,+57 307 193 46 22,Activo
+2491,146,ildefonso,feliu esteban,CC,939322401,1997-06-14,Cl 142N Cr 74,malin@verizon.net,+573039066122,Activo
+3466,402,ligia,ocana arregui,CC,525935545,1987-12-02,Cl 30 Cr 8Y,dsugal@hotmail.com,(+57) 313 405 53 72,Activo
+5002,719,sarita,neira toro,CC,189798398,1981-04-06,Cl 145 Cr 188,ninenine@icloud.com,(+57) 313 053 63 15,Activo
+1642,910,timoteo,pacheco pozo,CE,824301947,1970-04-20,Cl 68 Cr 168U Sur,damian@icloud.com,+57 605 247 08 97,Activo
+6211,438,ester anabel,fabregat nunez,CC,592567861,1991-06-11,Cl 4ª Cr 86O,phish@hotmail.com,+57 326 929 19 57,Activo
+7218,364,rosenda,villanueva herrera,CC,203535929,1987-08-09,Cl 1W Cr 187,rnelson@gmail.com,(+57)3176522729,Activo
+4919,855,ariel,gallego diego,CC,689815242,1981-08-16,Cl 124 Bis Cr 1N,slaff@aol.com,+573177345759,Activo
+6752,484,juliana,alarcon molins,CC,17630991,1983-06-23,Cl 8ª Cr 135,ninenine@live.com,+573239947622,Inactivo
+2666,660,catalina,mendez,CE,613070114,1995-01-07,Cl 7ª Cr 28V,johnh@yahoo.ca,(+57)3126059946,Inactivo
+9729,482,susanita,pascual salamanca,CC,727940832,1972-12-10,Cl 99 Cr 52,ryanshaw@comcast.net,+57 306 939 61 07,Bloqueado
+3971,249,dimas rafael,polo bravo,Pasaporte,904694222,1970-08-05,Cl 50 Cr 9ª,gerlo@yahoo.ca,+573250223518,Activo
+6823,785,anabel,pou lasa,CC,670561501,1972-09-29,Cl 134 Cr 86,noneme_6823@me.com,(+57)3176417504,Activo
+8165,428,nadia natividad,marco flores,CC,453546197,1985-05-14,Cl 28G Cr 5ª,squirrel@comcast.net,(+57) 605 979 71 95,Activo
+1230,640,maximo,tellez ferrera,CC,441884619,1997-10-07,Cl 34 Cr 21,sakusha@yahoo.com,+57 602 324 80 10,Activo
+1675,947,gala clarisa,ballesteros llopis,CE,810152492,1986-12-31,Cl 149 Sur Cr 7ª,seano@sbcglobal.net,+573176897871,Activo
+6085,869,amancio,aliaga sierra,CC,333683295,1991-02-25,Cl 35 Cr 86,bmidd@msn.com,+57 603 237 23 31,Activo
+8871,928,cesar,nogues tomas,CC,983454474,1973-07-13,Cl 55 Cr 5ª,oracle@verizon.net,+573231648776,Bloqueado
+1315,786,brigida,jove carretero,CC,493230584,1998-04-07,Cl 58 Cr 98 Sur,jrifkin@yahoo.com,+57 607 291 62 92,Activo
+5531,790,vito,del abad,CC,596710450,1980-09-01,Cl 42 Este Cr 147,sherzodr@att.net,(+57) 303 689 55 94,Activo
+4889,993,nayara fanny,julia sierra,CC,537820889,1998-02-22,Cl 26H Bis Z Cr 199S,rsmartin@msn.com,+57 608 825 57 67,Activo
+4680,402,isidoro,salas marques,CC,793409213,1980-10-04,Cl 66 Cr 50V,jsbach@aol.com,+573162347036,Activo
+5495,787,vicente,palomino adadia,CC,290145530,1979-12-29,Cl 95 Cr 117,wmszeliga@mac.com,(+57)3187680032,Activo
+2689,173,sandalio,de figueroa,CC,575604705,1978-06-23,Cl 14 Cr 121,william@hotmail.com,(+57)3157364094,Activo
+2808,584,elodia,pinto,CC,530161742,1999-12-09,Cl 4ª Cr 64,gastown@comcast.net,(+57)6058812577,Activo
+8497,166,felipe,carro ramis,CC,398055897,1992-05-20,Cl 64 Cr 7K,improv@live.com,+57 607 508 97 18,Inactivo
+6192,439,ana belen,alvarado bueno,CC,601540472,1970-03-13,Cl 96Z Cr 78A,gfxguy@outlook.com,+57 325 142 25 28,Activo
+2935,850,marisela,sanmiguel pedraza,CC,380452047,1995-03-12,Cl 99 Cr 100Q Bis C,marcs@outlook.com,(+57) 324 430 16 04,Bloqueado
+3169,553,jesusa,benavente ferrandez,CE,357998067,1997-07-31,Cl 6 Este Cr 14,skippy@yahoo.ca,(+57) 318 066 73 83,Activo
+8207,661,alonso,diaz donoso,CE,580512889,1996-04-14,Cl 66 Cr 1 Bis,jyoliver@sbcglobal.net,(+57)3260619309,Activo
+4786,750,filomena,pombo pla,CC,259558883,1978-03-21,Cl 6ª Cr 6J,afifi@hotmail.com,+576015742125,Activo
+6581,385,cristobal,cabello pol,CC,827422565,1993-05-07,Cl 4 Bis Cr 112,muadip@gmail.com,+573182056017,Activo
+7633,253,maribel,murillo alcaraz,CC,858610904,1977-09-18,Cl 64 Cr 154T,hyper@icloud.com,(+57)3184968516,Activo
+6091,331,mayte,cuesta acosta,CC,211565169,1977-01-05,Cl 50 Cr 55,spadkins@att.net,(+57)3107765951,Inactivo
+9710,659,remigio,villalonga roman,CC,352333974,1990-10-29,Cl 89P Cr 4E Bis J,oneiros@icloud.com,+57 601 815 42 23,Bloqueado
+6816,203,vanesa,villaverde,CC,942334551,1986-07-05,Cl 140 Cr 40,miltchev@gmail.com,+57 303 116 70 65,Activo
+8898,937,maristela,corbacho alegria,CE,194814620,1974-11-29,Cl 6O Cr 20 Bis S,uqmcolyv@att.net,+573070459976,Activo
+4845,815,manuelita,cervera botella,CC,413190464,1989-05-27,Cl 91 Cr 9 Bis L,william@comcast.net,+57 309 716 04 64,Activo
+4371,661,borja,canet gallo,CE,724643940,1999-07-16,Cl 128 Av Jesus Cristian Carrillo Ramos,lipeng@comcast.net,+573178178748,Bloqueado
+7256,417,clotilde chita,fabregas toro,CC,112751891,1986-06-19,Cl 86 Cr 68,sbmrjbr@msn.com,+576073066461,Activo
+8115,310,olimpia,girona paredes,CC,613752560,1973-04-07,Cl 47 Cr 178G,ryanvm@sbcglobal.net,+57 312 465 32 96,Activo
+9879,829,ruben,de arribas,CC,501342395,1977-02-19,Cl 31 Cr 58 Bis R,mbswan@msn.com,(+57) 607 928 34 20,Activo
+7693,301,edgar manu,suarez anglada,CC,90833289,1975-05-23,Cl 147 Cr 103K Bis,dbanarse@yahoo.ca,(+57)3189484836,Activo
+7570,185,luna,morcillo carretero,CC,865271752,1985-04-15,Cl 39 Cr 4ª,frikazoyd@me.com,+57 325 781 54 80,Activo
+7084,790,eladio,salcedo cabanillas,CC,605331513,1983-12-31,Cl 87 Cr 73,mosses@gmail.com,(+57)3092825385,Activo
+4366,838,gisela,camara duarte,CC,626875043,1985-03-14,Cl 86 Cr 128,parasite@optonline.net,+57 609 941 85 44,Activo
+5514,869,nicanor,de moliner,CC,939616607,1977-11-08,Cl 93 Cr 172,samavati@me.com,(+57) 606 191 52 97,Activo
+2780,790,rosario,paz figueroa,CC,207321475,1979-09-13,Cl 23 Cr 9ª,rfoley@mac.com,(+57)3193642352,Activo
+8193,818,gloria,esteve perez,CC,64510454,1988-11-04,Cl 84Z Cr 122,yfreund@verizon.net,+573014341204,Activo
+4621,762,alexandra,pedrosa asensio,CC,58765408,1987-12-21,Cl 49 Cr 118P Bis,fglock@gmail.com,+57 313 606 47 83,Activo
+8114,142,lucho lucio,gallart bartolome,CC,34414626,1998-11-09,Cl 3D Cr 8ª,bebing@hotmail.com,+573291094453,Inactivo
+5745,651,lola vanesa,roda verdejo,CC,619186157,1980-10-04,Cl 125 Cr 96,cumarana@live.com,+57 301 229 26 92,Activo
+5092,274,alejandra,alvarado rocamora,CC,194170631,1988-12-06,Cl 6B Bis C Cr 71,smpeters@mac.com,+57 302 742 06 55,Activo
+3997,156,cristina,navas sanz,CC,618648104,1998-12-13,Cl 3ª Cr 84,madler@gmail.com,(+57)3180630812,Activo
+2479,593,desiderio,vizcaino segui,CC,81821405,1982-10-14,Cl 116 Cr 4B Sur,mgemmons@yahoo.ca,(+57) 308 592 55 39,Activo
+1800,653,nelida,gallart ochoa,CE,914764023,1978-05-06,Cl 47 Cr 168,lstein@msn.com,(+57) 601 895 21 47,Activo
+9368,939,aurea,sandoval robles,Pasaporte,443487276,1970-04-17,Cl 37 Cr 36,skythe@optonline.net,+57 302 888 88 75,Activo
+5313,372,bibiana,azcona,CC,232957577,1994-09-27,Cl 9ª Cr 125,alias@comcast.net,(+57) 313 755 89 05,Activo
+6963,331,marcos,arnal sola,CC,230823474,1977-08-17,Cl 30 Cr 59,dburrows@comcast.net,(+57)3063208329,Inactivo
+7957,177,soledad ani,garrido duran,CC,35748503,1970-01-28,Cl 154 Cr 20G,eegsa@sbcglobal.net,+573243946227,Bloqueado
+2234,601,rodolfo duilio,terron serrano,CC,333153094,1983-12-20,Cl 62 Cr 97,gfxguy@hotmail.com,(+57)6041175639,Activo
+2527,124,carolina,ferreras bolanos,CC,766628158,1971-11-20,Cl 29P Cr 20,gumpish@optonline.net,(+57) 314 806 86 80,Activo
+1839,122,eladio,querol,CC,97346350,1990-08-07,Cl 7Z Cr 9G Bis Y,rhialto@yahoo.com,+573193706666,Activo
+2351,327,irene,orozco millan,CC,815300408,1970-05-14,Cl 95 Cr 8 Bis V,phyruxus@mac.com,(+57) 312 337 48 52,Activo
+8209,565,yago,heredia francisco,CC,731638468,1988-10-11,Cl 143 Cr 131,jshearer@yahoo.com,+576039753399,Activo
+1027,687,hernan,diego ferreras,CC,153488713,1996-09-04,Cl 2I Bis T Cr 3 Bis,fwiles@live.com,(+57) 329 151 67 85,Inactivo
+4623,834,dario severino,falcon rodriguez,CC,226198529,1994-08-17,Cl 80 Cr 27O,kayvonf@sbcglobal.net,+57 315 971 89 47,Activo
+7551,279,eli,rovira busquets,CC,547994907,1978-09-02,Cl 146U Cr 137Y,pappp@icloud.com,+57 308 091 89 05,Activo
+3424,458,remedios,barbero calderon,CC,251661605,1991-01-03,Cl 140U Bis P Cr 163,timlinux@icloud.com,+57 304 613 95 63,Activo
+3450,550,telmo,azcona huerta,CC,336503354,1987-01-24,Cl 46 Cr 39 Bis,feamster@mac.com,(+57) 327 278 93 52,Activo
+1324,890,jose luis,salgado monreal,CC,478343065,1975-08-13,Cl 80 Cr 1F,dexter@yahoo.ca,(+57) 316 813 97 80,Activo
+5400,387,maximiliano,ferrer sole,CE,507099822,1982-02-10,Cl 149H Cr 121B,symbolic@optonline.net,(+57)3116641245,Bloqueado
+3086,128,seve,pellicer arevalo,CC,772184710,1989-07-06,Cl 36M Cr 148N,intlprog@live.com,(+57) 605 758 28 35,Activo
+5958,485,poncio,gallart cano,CC,91723132,1977-04-22,Cl 2ª Cr 67,msloan@live.com,+57 315 809 82 95,Activo
+1915,904,abril,morante portero,CC,734323158,1982-07-16,Cl 64G Cr 50,wbarker@aol.com,+57 324 365 63 10,Activo
+7737,326,alondra,arroyo moraleda,CC,36524616,1971-06-19,Cl 140 Cr 182,niknejad@msn.com,(+57)3071491602,Activo
+2412,124,nando,neira garcia,CC,994234258,1979-03-14,Cl 7ª Cr 81,koudas@icloud.com,+576038514447,Bloqueado
+4456,892,soraya,puig estrada,CC,896170908,1992-01-17,Cl 52 Cr 136 Bis V,cantu@outlook.com,+576015674114,Activo
+2058,420,teresita,ferrera bernat,CE,590673700,1984-10-09,Cl 140 Cr 4Z,nighthawk@hotmail.com,+57 319 779 94 38,Activo
+2146,486,ignacio,mendez casanovas,CC,887308149,1973-01-12,Cl 175 Bis Y Cr 2D,peterhoeg@yahoo.com,(+57)3199454324,Activo
+7019,744,isabel,bayo sanchez,CC,548749432,1991-03-27,Cl 12 Cr 47,jonadab@outlook.com,(+57)3158717899,Activo
+7746,169,ligia,linares isern,CE,644921680,1993-09-13,Cl 167H Cr 134Y,gamma@sbcglobal.net,+573251894018,Activo
+1012,699,simon,gaya vallejo,CC,29550002,1995-08-09,Cl 7ª Cr 71,wbarker@sbcglobal.net,(+57) 314 644 14 06,Bloqueado
+3644,193,chus,larranaga hernando,CC,567070206,1993-10-30,Cl 82 Cr 164,conteb@mac.com,+57 315 746 21 59,Activo
+5717,361,angeles,arevalo balaguer,CC,474053378,1993-03-24,Cl 1 Este Cr 108,mugwump@verizon.net,(+57)3219801104,Activo
+5729,451,benito juan francisco,aramburu fiol,CC,228105523,1984-05-24,Cl 102O Cr 19,andrei@outlook.com,(+57) 327 162 33 57,Activo
+6181,367,amaya,valderrama gomis,CC,156157855,1994-01-25,Cl 9U Cr 144I,roamer@sbcglobal.net,(+57) 329 402 31 02,Activo
+4677,691,beatriz,rodriguez iborra,CC,271625878,1982-09-25,Cl 8L Este Cr 62,malattia@msn.com,+57 305 920 54 83,Activo
+2920,763,amilcar,ortega gallo,Pasaporte,646788816,1987-01-27,Cl 97 Cr 74T,aschmitz@sbcglobal.net,(+57) 325 903 79 94,Activo
+4151,555,seve,laguna bas,CE,12492339,1980-07-05,Cl 4K Cr 3ª,ovprit@aol.com,(+57) 306 972 35 55,Activo
+4319,517,francisco,javier coloma,CC,103283551,1986-04-22,Cl 24 Cr 4J Bis,jaarnial@att.net,+57 604 107 06 03,Activo
+8412,479,erasmo,crespo gallego,CC,196617868,1993-01-12,Cl 5G Cr 2T,murty@icloud.com,+573064006297,Activo
+1584,159,octavio,perello losada,CE,309918503,1976-04-26,Cl 43 Cr 1C,loscar@sbcglobal.net,(+57) 315 822 55 78,Activo
+9779,928,camila leticia,arevalo cuenca,CC,236858195,1989-12-20,Cl 182 Cr 12,telbij@verizon.net,(+57)6095625064,Activo
+2318,200,aurea manuela,pinol bernal,CE,176957307,1985-07-07,Cl 147L Cr 78,fmtbebuck@live.com,(+57) 329 963 73 33,Activo
+6780,173,carina,arcos vara,CC,85891759,1977-06-20,Cl 42U Bis O Cr 174 Bis P,evilopie@att.net,(+57) 603 825 55 69,Activo
+8789,769,yago,baro garmendia,CC,517728790,1995-02-28,Cl 42 Cr 80Q Este,aibrahim@icloud.com,(+57)6017119524,Activo
+6090,827,antonio,folch grande,CC,975036348,1986-01-10,Cl 12L Cr 196M,uqmcolyv@aol.com,+57 304 763 32 87,Activo
+7018,303,jose ramon,de aguilera,CC,233667233,1991-01-18,Cl 178 Cr 13D Bis I,hermes@aol.com,(+57)3022691604,Activo
+3294,633,dulce caridad,rojas angel,CC,931051602,1980-07-02,Cl 83 Cr 43,krueger@msn.com,+573112178760,Activo
+2258,691,cruz,benitez,CC,217665096,1999-12-30,Cl 9L Sur Cr 77 Bis,danneng@att.net,(+57)3091119544,Activo
+1033,827,fabio,carnero boix,CC,445886405,1983-05-04,Cl 8 Este Cr 1ª,pgolle@yahoo.com,(+57)3239993092,Activo
+9403,959,nayara,casanovas alarcon,CC,441517897,1995-12-30,Cl 34 Cr 65,scitext@comcast.net,(+57)6064839348,Activo
+4646,190,miguel,villegas jover,CC,444016239,1992-04-30,Cl 165 Cr 38,goresky@gmail.com,+57 310 041 01 61,Inactivo
+9086,602,ildefonso,guillen arrieta,CC,691352836,1995-12-09,Cl 9 Este Cr 118 Bis,shawnce@optonline.net,+57 318 688 81 05,Activo
+7238,299,jose ignacio,armas ramirez,Pasaporte,126882712,1993-04-18,Cl 9ª Cr 43,ubergeeb@live.com,(+57)6044932107,Activo
+3441,259,maria jesus celestina,casas carrasco,CC,299229747,1975-02-12,Cl 15 Cr 19,redingtn@yahoo.ca,+57 308 500 72 54,Activo
+7885,922,mamen,ledesma escribano,CC,418715789,1995-04-07,Cl 82 Cr 171,nimaclea@live.com,+573092499283,Activo
+5047,470,ambrosio,casanovas piquer,CC,707512833,1989-10-04,Cl 102W Bis J Cr 160,iapetus@aol.com,(+57) 301 754 02 76,Activo
+7588,278,joan,ferran alegria,CC,365995995,1985-01-23,Cl 17 Cr 6G,skythe@outlook.com,(+57)3234588114,Activo
+4766,218,vasco,tamayo barrio,CC,668683108,1994-01-07,Cl 76W Cr 122,anicolao@aol.com,+57 326 220 30 48,Activo
+9448,472,leire aroa,alfaro olmo,CC,764899628,1982-12-03,Cl 108 Cr 5ª,hahsler@yahoo.ca,+57 305 559 72 18,Activo
+6580,826,felix,guardia arenas,CC,69881648,1993-09-07,Cl 19M Cr 156M Sur,tokuhirom@comcast.net,+57 329 984 07 37,Inactivo
+9324,147,gloria,dalmau bolanos,CC,154738758,1973-06-12,Cl 49 Bis Cr 74,mhoffman@live.com,+573028473737,Activo
+8280,997,eliana,solsona giron,CC,582993692,1983-03-08,Cl 16 Cr 30J,mahbub@verizon.net,(+57) 317 036 56 23,Activo
+1774,451,liliana,valdes bilbao,CC,276721324,1999-07-04,Cl 112 Cr 4O,janneh@gmail.com,+573124039674,Activo
+9235,778,tomasa,feijoo alvarado,CC,96006805,1979-04-08,Cl 78 Cr 88,jonathan@yahoo.com,(+57)3086915614,Activo
+1085,691,jose angel,velez vila,CC,144823700,1998-01-14,Cl 53U Cr 7ª,zeitlin@aol.com,+573123892873,Activo
+1306,584,pio,roma estevez,CC,873996363,1972-02-27,Cl 2I Cr 62,telbij@yahoo.com,+573060734859,Activo
+5167,573,amelia,tello toledo,CC,569999245,1988-12-17,Cl 40 Cr 110L,cparis@me.com,+57 313 186 92 80,Inactivo
+4119,487,roberta,de lamas,CC,576172557,1991-02-20,Cl 44 Cr 165,dburrows@gmail.com,(+57)3046032922,Activo
+5713,790,primitivo,melero daza,CC,674576987,1975-12-14,Cl 51 Cr 154,budinger@gmail.com,+57 314 179 86 28,Activo
+1512,122,benigno,sanz gomis,CC,381657202,1998-05-20,Cl 6R Cr 196E,mnemonic@comcast.net,+57 602 680 10 40,Activo
+2902,340,reyna,rivas porcel,CE,247145193,1974-01-28,Cl 29 Cr 128N,techie@yahoo.ca,(+57)3008338753,Activo
+1706,129,olivia,goni,CC,135926711,1990-12-22,Cl 123T Este Cr 150,timlinux@att.net,+573177423524,Activo
+4219,998,isaac,morcillo calvo,CE,318410319,1980-02-26,Cl 84 Cr 68,dgriffith@gmail.com,(+57) 609 553 37 44,Activo
+9904,558,asdrubal,franco montana,CC,14391906,1982-08-29,Cl 80 Cr 5ª,credmond@me.com,(+57)6017375057,Activo
+4431,453,alexandra ambar,armengol campos,CC,765662450,1988-03-22,Cl 35 Cr 85,vsprintf@live.com,(+57) 609 402 46 26,Activo
+1319,322,calisto,menendez,Pasaporte,430305559,1975-09-30,Cl 2M Cr 26,tubajon@yahoo.ca,+57 608 588 27 96,Activo
+1451,699,graciana cintia,iniguez heras,CE,840197565,1992-06-24,Cl 3ª Cr 125W,overbom@aol.com,+573245272998,Activo
+8039,712,mayte,duarte alfonso,CC,793109750,1971-10-02,Cl 114 Cr 91S,iamcal@me.com,+57 601 136 92 93,Activo
+1110,136,maria teresa,llamas marino,CC,80728392,1983-04-23,Cl 7 Este Cr 100,gboss@icloud.com,(+57)3087597551,Activo
+8208,631,federico,pizarro coello,CC,937752618,1983-01-05,Cl 193 Cr 1ª,adamk@icloud.com,+57 320 629 92 76,Inactivo
+1206,698,pacifica,cordoba,CC,250085618,1995-07-28,Cl 3C Cr 28,formis@yahoo.com,(+57) 308 016 39 89,Activo
+9500,285,rosa,jimenez galvez,CC,877640549,1971-07-01,Cl 9ª Cr 114X,ngedmond@msn.com,(+57)3004767999,Activo
+5286,487,martirio,bonet,CC,483899550,1972-11-12,Cl 7 Sur Cr 86,amaranth@icloud.com,(+57) 302 024 63 27,Activo
+6892,188,ruy,roldan lara,CC,348026789,1992-09-28,Cl 61 Cr 97,chaki@verizon.net,+57 315 825 81 17,Activo
+4111,458,felisa,mugica gomez,CC,18727981,1974-09-02,Cl 96K Sur Cr 183L,barlow@mac.com,+57 322 177 16 42,Activo
+7577,364,anselma,valentin malo,CC,614987690,1986-08-04,Cl 162Y Cr 163,barjam@mac.com,(+57)3189507132,Activo
+8171,448,lino,de busquets,CC,451425770,1973-07-09,Cl 8ª Cr 8ª,parents@outlook.com,(+57) 608 717 74 69,Activo
+7946,312,sandra,leiva aguilo,CC,887929215,1990-09-18,Cl 33 Cr 11,dodong@comcast.net,+57 602 113 59 91,Activo
+8573,258,federico,gutierrez tamarit,Pasaporte,630176405,1998-12-28,Cl 7J Bis G Cr 67,chrisj@gmail.com,(+57)3271445790,Activo
+7821,772,aristides,exposito sanchez,CC,463648392,1995-11-13,Cl 70Q Cr 9ª,overbom_7821@aol.com,(+57)3126378834,Activo
+3508,778,claudia,ibanez penas,CE,936098595,1981-01-02,Cl 25 Cr 87,eminence@optonline.net,+57 312 952 47 95,Activo
+4473,783,roque,bejarano,CC,953802517,1979-07-06,Cl 6 Sur Cr 2ª,jonathan@att.net,+57 604 435 02 08,Activo
+2840,259,sergio,font minguez,CC,894739589,1991-04-29,Cl 191 Bis C Cr 199,teverett@yahoo.ca,+57 311 142 55 02,Activo
+4150,411,luisina chus,acosta losa,CC,476638296,1971-11-05,Cl 114X Cr 88,library@me.com,+573033789293,Activo
+6957,690,eusebia,torre dalmau,CC,605386262,1977-09-02,Cl 98 Cr 129,chronos@msn.com,(+57) 609 824 11 61,Activo
+5439,260,pedro,sancho garrido,CC,777405682,1980-05-01,Cl 2ª Cr 140 Bis,dvdotnet@aol.com,+576072082532,Activo
+3891,726,blanca,lluch gonzalo,Pasaporte,6362021,1998-12-14,Cl 15 Cr 19D,jguyer@yahoo.com,+57 604 475 12 33,Activo
+8600,541,benito,aranda olivera,CC,971924930,1982-04-09,Cl 72A Este Cr 22,symbolic@live.com,(+57)3008083676,Inactivo
+9155,504,juan,lerma melero,CC,689819317,1983-11-26,Cl 59 Cr 20A,cyrus@outlook.com,(+57) 605 450 57 91,Activo
+8588,786,nayara,fuster cuesta,CC,846060639,1980-03-18,Cl 3Y Este Cr 107L,russotto@att.net,+57 323 308 78 25,Activo
+2415,303,maricela,mendizabal tejera,CE,910318578,1998-07-25,Cl 71H Cr 187,fmtbebuck@outlook.com,+576056639954,Activo
+6977,147,silvio,ledesma planas,CC,589636983,1988-04-21,Cl 38C Cr 57,ovprit@live.com,(+57) 311 470 34 36,Activo
+5150,351,ovidio,garcia gabaldon,CC,590129795,1986-08-03,Cl 3ª Cr 152Y Bis D,jimxugle@gmail.com,+57 324 109 83 57,Activo
+4638,292,marina,gisbert huertas,CC,739787409,1984-05-19,Cl 23 Cr 6X Bis,pthomsen@icloud.com,(+57)3028328252,Inactivo
+4807,378,nazaret,pina sole,CC,33315270,1998-02-02,Cl 159 Cr 146,csilvers@sbcglobal.net,+57 301 179 62 48,Inactivo
+5312,471,valentina,del diaz,CC,487782639,1989-06-30,Cl 113 Sur Cr 23,fangorn@optonline.net,+57 300 563 67 55,Activo
+8336,428,jose antonio,lluch gutierrez,CE,827540983,1971-01-16,Cl 81 Cr 67,cliffordj@msn.com,(+57) 308 992 55 05,Activo
+5285,978,maria belen,ortega alvarez,CC,610184594,1997-10-26,Cl 154 Cr 181,fukuchi@verizon.net,+573075700004,Activo
+3741,783,manuelita,barroso coloma,CC,592273692,1986-07-20,Cl 66E Cr 9I Este,kourai@optonline.net,+576041207457,Inactivo
+9131,477,carmelo,valentin mancebo,CC,942245849,1987-01-08,Cl 72 Cr 192 Sur,psichel@me.com,+57 306 899 28 65,Activo
+4917,659,jose ramon,nicolas marco,CE,475765131,1995-05-04,Cl 49 Cr 83,chronos@comcast.net,(+57)3284779661,Activo
+5808,797,ruben,del azorin,CC,684676457,1975-12-06,Cl 68Q Sur Cr 19,ccohen@hotmail.com,+573007752708,Activo
+6702,368,jordana,riba,CC,113352355,1975-11-03,Cl 48K Cr 99,quantaman@att.net,+57 307 146 28 86,Activo
+5535,853,brunilda,giralt,CC,41237583,1990-03-09,Cl 126V Cr 8M,sthomas@optonline.net,+57 317 617 24 19,Activo
+4552,182,jose,valenciano osuna,CE,384115674,1984-07-14,Cl 110U Cr 99,cgcra@yahoo.ca,+573219868294,Activo
+1413,933,ines,gil miralles,Pasaporte,564020174,1970-06-24,Cl 2G Cr 59 Bis,szymansk@sbcglobal.net,+57 319 883 16 40,Activo
+9851,386,pio,del lastra,CC,62765380,1982-03-30,Cl 5W Cr 85 Este,goresky@aol.com,(+57) 310 147 70 05,Activo
+8428,842,amilcar,valera,CC,322801662,1993-08-28,Cl 67 Cr 1ª,staffelb@comcast.net,(+57) 609 166 78 96,Activo
+1617,657,laura,del hernandez,CC,256422140,1985-08-28,Cl 17 Bis Cr 119,jeffcovey@me.com,+573046899248,Activo
+2532,711,encarnacion,iborra,CC,805687849,1975-05-18,Cl 74 Cr 14,world@yahoo.com,+57 327 589 56 94,Activo
+2994,105,nicolasa,de verdugo,CE,394702963,1982-01-10,Cl 124S Cr 140,wetter@mac.com,+57 311 552 94 90,Activo
+1162,444,evaristo loreto,ferrer marino,CC,416715636,1982-06-16,Cl 66D Bis Cr 25,dwheeler@me.com,+573281863034,Activo
+2291,817,esmeralda visitacion,menendez aleman,CC,407188246,1977-04-07,Cl 2ª Cr 19,mastinfo@live.com,(+57) 327 265 07 68,Activo
+1457,773,manuel,melero palomo,CC,861665556,1998-05-23,Cl 113Y Sur Cr 98,sblack@verizon.net,(+57) 312 020 60 68,Inactivo
+6301,594,paca,verdejo mayoral,CC,51079705,1988-10-04,Cl 33 Cr 80,ganter@verizon.net,+57 306 433 56 33,Activo
+8914,182,regina,del parejo,CC,299887284,1981-04-05,Cl 3Q Cr 53,dpitts@hotmail.com,+57 308 845 50 78,Activo
+3337,534,agueda,gimenez serna,Pasaporte,337015082,1998-05-26,Cl 19 Cr 104,sinkou@me.com,+57 602 257 04 38,Activo
+7015,777,anastasio,montesinos garcia,CC,764901046,1975-02-15,Cl 101L Cr 186,chronos@me.com,+57 325 448 41 87,Activo
+9215,420,marisela,quintero quintero,CC,326964794,1978-12-23,Cl 1ª Cr 165D Este,csilvers@gmail.com,+57 609 722 98 08,Bloqueado
+6964,768,isaac,espada madrigal,CC,904845697,1974-07-01,Cl 55 Cr 172E,aardo@verizon.net,(+57) 604 915 27 54,Activo
+8505,903,luciana,gaya alvaro,CC,646627164,1976-07-02,Cl 2ª Cr 55,cantu@gmail.com,+576054840694,Activo
+2679,599,samanta,olmedo,CC,218716598,1979-05-16,Cl 194 Cr 50,jeffcovey@verizon.net,+573215976012,Activo
+5548,329,osvaldo atilio,jover herrera,CC,61113140,1972-08-17,Cl 7 Este Cr 77,lydia@gmail.com,+573234387721,Activo
+5814,136,tere,montenegro exposito,CC,580388912,1987-03-26,Cl 130N Cr 153F,ubergeeb@msn.com,(+57) 324 683 56 74,Activo
+6108,407,nicodemo,alegre izquierdo,CC,997431468,1978-03-08,Cl 19 Cr 84,jshirley@outlook.com,(+57) 325 907 44 37,Activo
+4410,809,adelardo,chico cuesta,CC,98361535,1993-11-01,Cl 8ª Cr 66,niknejad@me.com,(+57)3214906763,Activo
+4026,332,dorotea,diez aznar,CC,338829104,1983-02-14,Cl 98 Bis L Cr 6U,punkis@sbcglobal.net,+573037172290,Activo
+3698,333,donato,noguera marmol,CC,931811466,1989-06-08,Cl 5ª Cr 137,skaufman@comcast.net,+573207272088,Activo
+8236,133,maria del,carmen benitez lozano,Pasaporte,275660424,1998-03-29,Cl 32 Cr 22,kmiller@yahoo.com,(+57)3260230836,Activo
+3521,838,roxana,sanjuan nieto,CC,342054538,1998-05-19,Cl 188 Cr 29,hoangle@verizon.net,(+57) 326 112 80 39,Activo
+4939,657,primitiva,villalba valenciano,CC,653119256,1976-08-27,Cl 69 Cr 1F,miturria@aol.com,(+57)3005734537,Inactivo
+3402,794,aura,manzano pedrero,CC,574845471,1984-02-05,Cl 70D Cr 93,bartlett@verizon.net,(+57) 313 223 93 13,Inactivo
+1731,147,sabas macario,murcia quintanilla,CC,213371016,1983-07-02,Cl 25 Cr 7ª,afifi@icloud.com,(+57) 313 554 68 85,Activo
+1778,311,apolinar,falcon cadenas,CC,209654601,1975-01-01,Cl 6S Cr 56Q,keiji@aol.com,(+57)6043425269,Activo
+7920,497,horacio,gallego matas,CC,303735177,1996-10-29,Cl 96 Cr 8E,kramulous@icloud.com,(+57) 321 075 71 47,Activo
+5906,275,curro,canellas abad,CC,326354657,1982-12-28,Cl 84 Cr 3 Bis,cantu@mac.com,(+57) 306 174 26 22,Activo
+1234,114,julio,corominas,Pasaporte,98566367,1977-12-13,Cl 47 Cr 65,wojciech@live.com,(+57)3129285545,Activo
+9797,437,dominga,olmedo lara,CE,488663365,1987-01-31,Cl 54 Cr 133,dogdude@gmail.com,+573034105615,Activo
+1442,931,norberto,cortes coca,CC,427533046,1998-04-30,Cl 8R Cr 2T,tmaek@verizon.net,+57 302 461 66 36,Activo
+9435,489,juana,valls ruiz,CC,789989302,1992-12-27,Cl 102 Cr 26 Sur,dmath_9435@live.com,+57 604 638 12 59,Activo
+7342,659,ines,garcia nevado,CC,635313842,1992-04-28,Cl 43 Cr 6ª,heine@gmail.com,(+57)3138715488,Activo
+1350,285,marianela,pablo samper,CC,342324442,1971-06-10,Cl 9C Cr 6C,ramollin@aol.com,+576048416762,Activo
+5862,393,azahar,solsona,CC,923662197,1970-12-31,Cl 22 Cr 106G Bis P,esbeck@msn.com,+57 329 842 27 75,Activo
+5754,859,patricia,leon grande,CC,404137213,2000-05-02,Cl 47Z Cr 80R Sur,tarreau@optonline.net,(+57) 317 781 27 72,Activo
+8765,492,inmaculada,moles verdu,CC,841581407,1979-08-02,Cl 72X Cr 76C Bis,crypt@gmail.com,(+57)6056769406,Activo
+3534,226,piedad,casanova,Pasaporte,675336886,1991-04-13,Cl 51B Cr 183Y,flavell@aol.com,(+57) 604 568 41 05,Activo
+5871,458,dafne,amigo arias,CE,391226207,1982-11-05,Cl 77 Cr 88,dpitts@yahoo.ca,+57 315 738 90 95,Activo
+4097,393,anabel,tur llorens,CC,682706935,1999-10-21,Cl 66 Cr 7P,rsteiner@sbcglobal.net,+573297115489,Inactivo
+1975,820,danilo jose antonio,escobar muro,CC,147864258,1991-01-30,Cl 196 Cr 146Y Este,clkao@mac.com,(+57)3119949091,Activo
+7881,859,aura,salcedo vigil,CC,708679007,1991-02-17,Cl 107 Cr 2ª,slaff@yahoo.ca,+57 324 655 02 06,Activo
+6221,657,ramiro,cepeda casanova,CC,233194952,1973-12-11,Cl 9 Bis Cr 48,emmanuel@hotmail.com,+57 315 976 83 93,Inactivo
+8667,626,nadia,tormo,CC,992502944,1987-07-08,Cl 8ª Cr 4 Sur,evans@icloud.com,(+57) 323 644 41 65,Activo
+5316,563,paola,gonzalez piquer,CC,785744165,1970-06-14,Cl 194 Sur Cr 33,tezbo@verizon.net,+573244549044,Activo
+4240,693,remedios,quesada heredia,CC,806011480,1986-06-10,Cl 103 Cr 4 Bis P,naoya@yahoo.ca,(+57)3131956368,Activo
+1987,177,andres,cortes fuertes,CC,446408552,1996-05-29,Cl 92L Cr 5ª,benanov@me.com,(+57) 322 707 95 54,Activo
+7983,586,maria,angeles infante cabanillas,CC,759507391,1972-05-11,Cl 8F Cr 6ª,mwandel@gmail.com,+57 316 198 98 11,Activo
+3787,303,heliodoro antonio,baena tejada,CC,95328195,1985-05-02,Cl 3ª Cr 21,breegster@comcast.net,+57 322 614 29 96,Bloqueado
+7847,327,belen,carballo llado,CC,927178975,1999-11-09,Cl 87 Cr 29,scato@msn.com,(+57)3040708467,Activo
+9912,327,quique,marquez torralba,CC,627540461,1984-06-23,Cl 77 Cr 22,mwilson@comcast.net,(+57)3064081940,Activo
+9957,502,felicidad,amor cerdan,CC,615815280,1991-09-26,Cl 66 Cr 198,cgarcia@live.com,+573193658823,Activo
+6710,739,esteban,de serrano,CC,987167171,1998-11-07,Cl 92M Cr 8U Este,nimaclea@optonline.net,+573055322452,Bloqueado
+6685,430,eligia javiera,llado pla,CC,888943187,1999-02-19,Cl 123L Cr 191,gtewari@gmail.com,+57 603 796 43 64,Inactivo
+5208,588,nidia,ordonez canas,CC,609598627,1970-09-08,Cl 8ª Cr 171,wmszeliga@att.net,+57 321 734 81 74,Activo
+7571,997,adelaida,de egea,CC,819734033,1971-11-13,Cl 57 Cr 108,kramulous@aol.com,(+57)3108081400,Activo
+3649,327,dalila,torre amores,CC,993661870,1986-01-31,Cl 120 Cr 65,ninenine@comcast.net,+57 328 694 00 83,Inactivo
+6262,476,roldan,guardia,CC,104691217,1989-03-09,Cl 129 Cr 12Z,jgmyers@gmail.com,(+57) 314 284 93 17,Activo
+3273,965,gabino,barragan figueroa,CC,730755837,1971-01-28,Cl 61 Cr 46 Sur,crobles@msn.com,(+57) 606 292 01 89,Activo
+8923,252,amanda,chamorro vives,CC,901892415,1992-12-01,Cl 28 Cr 191,jgoerzen@msn.com,(+57) 313 739 61 64,Activo
+6775,415,jose,canas martinez,CC,796875554,1981-03-19,Cl 111 Cr 30,frikazoyd@verizon.net,+573027992714,Activo
+4602,436,benita,exposito minguez,CC,653571376,1979-08-30,Cl 168 Cr 1ª,wonderkid@yahoo.com,+57 609 522 15 38,Activo
+4853,181,nerea,de portero,CC,528207224,1981-10-14,Cl 4ª Cr 52J,wonderkid@yahoo.ca,+57 300 642 38 38,Activo
+3315,180,benjamin,de palau,CC,308732065,1973-05-02,Cl 49 Cr 174S,ajlitt@gmail.com,+576046087488,Activo
+4261,849,cristina,arranz muro,CC,940612205,1995-04-05,Cl 4ª Cr 15,seurat@icloud.com,(+57)3084236759,Activo
+3731,887,lupe,pellicer marco,CC,19512019,1997-10-03,Cl 6ª Cr 29,bryanw@yahoo.com,+573049588456,Activo
+5465,158,candida,pinedo dalmau,CC,330185085,1984-04-25,Cl 8ª Cr 14,kingma@outlook.com,(+57)6072688577,Activo
+9209,159,carmelita,anton escalona,CC,619327153,1993-02-11,Cl 93 Cr 64,adillon@yahoo.com,+57 601 196 66 78,Activo
+6326,732,felicidad,macias vall,CC,105820806,1989-10-04,Cl 4M Bis S Cr 113,sonnen@yahoo.ca,(+57) 319 442 19 69,Activo
+9233,495,fanny,cortes palacios,CC,219079300,1993-04-13,Cl 107 Cr 153,gilmoure@aol.com,+57 318 119 34 95,Inactivo
+8458,785,eusebio,barros guardia,CC,395973369,1980-11-19,Cl 2 Bis O Cr 58F,thomasj@hotmail.com,(+57)3240024254,Activo
+3918,773,leocadio,requena barriga,CC,342796748,1976-04-05,Cl 27 Cr 64,kewley@att.net,(+57)6073948712,Activo
+4991,817,abril,feijoo goni,CE,642066574,1975-11-10,Cl 64 Bis Cr 50,noneme@sbcglobal.net,(+57) 300 390 70 54,Activo
+7756,443,luciano,agusti lopez,CC,396996313,1976-06-16,Cl 1ª Cr 97,yamla@gmail.com,+573088053493,Activo
+7790,792,carlos,flores nevado,CC,922868685,1987-10-02,Cl 77 Cr 138 Bis Z,tkrotchko@icloud.com,(+57)3054365347,Inactivo
+8585,327,pastora,galan marino,CC,670709128,1979-07-17,Cl 6ª Cr 81V,ribet@yahoo.ca,+573019194076,Activo
+3109,847,corona aitana,julian salvà,Pasaporte,558738696,1998-08-09,Cl 6ª Cr 14C,bahwi@sbcglobal.net,(+57)3096780421,Activo
+7120,393,jeronimo,peinado morales,CC,474887194,2000-03-22,Cl 9ª Cr 75A,pkilab@mac.com,+573215121481,Activo
+9463,343,nicanor,garcia perez,CC,157445144,1991-03-26,Cl 9R Bis X Cr 9Q,msroth@verizon.net,(+57) 300 186 55 73,Activo
+3865,797,lisandro guillermo,delgado porcel,CE,630029563,1982-10-13,Cl 196 Bis U Cr 1ª,killmenow@aol.com,(+57) 304 083 06 02,Activo
+8884,447,natanael,valles prieto,CC,250184160,1998-11-28,Cl 2Z Bis U Cr 43 Este,ribet@icloud.com,(+57) 324 126 47 08,Activo
+1708,169,xiomara,saenz batalla,CC,98715142,1982-07-18,Cl 10 Cr 54,wildfire@yahoo.ca,+573138882875,Activo
+3876,159,santos,zurita barrio,CC,543848878,1991-10-06,Cl 68 Cr 27,kingjoshi@icloud.com,+576017706651,Activo
+2981,829,isidro,rozas gamez,CE,680762277,1998-05-05,Cl 67B Cr 3 Bis,stinson@hotmail.com,(+57) 329 965 36 37,Activo
+7383,605,patricia raquel,carnero agullo,CC,268690912,1977-08-25,Cl 8G Cr 117 Bis,tmaek@mac.com,+573092393477,Activo
+3135,174,patricio,alberola sandoval,CC,11299453,1983-02-14,Cl 1P Cr 1N,boein@icloud.com,(+57)3000417238,Activo
+6005,371,bibiana,barrio,CC,786445123,1976-03-19,Cl 7ª Cr 15 Sur,pdbaby@icloud.com,(+57)3177447199,Activo
+1201,777,lucila,del coronado,CC,865146395,1979-12-25,Cl 11M Cr 94,gordonjcp@gmail.com,(+57) 320 169 17 65,Activo
+8564,289,danilo,matas vicente,CE,675254100,1984-04-21,Cl 1A Sur Cr 87,choset@yahoo.com,+573244271754,Activo
+3716,649,duilio,lucas feliu,CE,318984187,1974-10-08,Cl 110 Cr 8N,jyoliver@verizon.net,+573046748156,Activo
+3916,649,jose,reyes leal,CC,98150450,2000-03-20,Cl 5 Bis Cr 3 Este,mglee@msn.com,+57 606 967 56 92,Activo
+9799,118,nicolas pascual,gabaldon paniagua,CC,436148646,1987-02-12,Cl 192 Cr 53,jgmyers@yahoo.com,(+57) 303 846 43 75,Inactivo
+5424,783,gonzalo,barbera gimeno,CC,325619080,1987-03-22,Cl 138 Este Cr 100,jadavis@comcast.net,(+57) 313 026 42 91,Activo
+4236,278,marco,sanchez yuste,CC,495531994,1993-03-08,Cl 70 Cr 67,presoff@mac.com,+576068471840,Inactivo
+6553,585,alejandra,olivera,CC,543173869,1983-10-22,Cl 61 Cr 30,jadavis@outlook.com,+576041582627,Activo
+5811,476,sandra,leiva planas,CC,377491553,1994-01-15,Cl 9Z Cr 62,willg@yahoo.com,+573160855431,Inactivo
+9905,360,sigfrido,urrutia vargas,CC,459973684,1971-02-24,Cl 61A Este Cr 153,gbacon@gmail.com,(+57) 606 741 34 81,Activo
+1610,691,nydia,urena serrano,CC,670655390,1992-01-17,Cl 82 Cr 138X,quantaman@me.com,(+57) 609 740 81 40,Activo
+7795,336,etelvina,tolosa exposito,CC,909166299,1978-06-26,Cl 56 Cr 32,cantu@att.net,+573129691102,Activo
+1876,158,adriana,gilabert bravo,CC,136447198,1994-09-13,Cl 11 Cr 191Y,oechslin@mac.com,+573112406998,Activo
+5015,181,juan jose,gimenez calzada,CC,21623856,1970-01-02,Cl 159 Bis Cr 13,tkrotchko@comcast.net,(+57) 316 264 12 03,Activo
+6956,737,emiliana,marti manso,CC,354447139,1974-03-05,Cl 167 Cr 3C,keiji@mac.com,(+57) 607 813 14 82,Activo
+8228,999,adora,solera julia,CC,911084638,1988-03-02,Cl 5Y Cr 168T,ubergeeb@sbcglobal.net,(+57)3261904367,Activo
+6820,392,sancho,arregui ibanez,CC,964451702,1993-01-25,Cl 12 Cr 38Q Sur,hutton@live.com,+576023246055,Activo
+8574,169,sonia pacifica,aranda duran,CC,896831890,1973-10-24,Cl 162S Cr 31,nacho@icloud.com,(+57) 314 010 19 97,Activo
+2803,360,aitor,pelayo tello,CC,190324985,1980-01-14,Cl 59T Sur Cr 102S,kingjoshi@hotmail.com,+573040980937,Activo
+9041,973,juana,losa villar,CC,978039034,1990-02-14,Cl 70 Cr 138,pontipak@live.com,(+57) 601 902 35 10,Activo
+2140,260,goyo,rios guerra,CC,980448753,1992-04-18,Cl 7ª Cr 111,bogjobber@msn.com,(+57)3178844387,Activo
+2946,253,rufino,beltran torralba,CC,13657422,1982-10-22,Cl 58S Cr 177,alhajj@mac.com,(+57) 605 662 93 42,Activo
+5665,790,apolonia,pareja real,CC,664528238,1992-11-24,Cl 77E Cr 7ª,blixem@mac.com,+576029948958,Activo
+3395,327,herminia,samper sureda,CC,314388025,1992-05-22,Cl 39 Cr 7G,zilla@sbcglobal.net,+57 324 950 06 46,Activo
+3574,809,loida,morera,CE,993179347,1988-06-02,Cl 8ª Cr 92,shaffei@msn.com,+57 303 659 79 62,Bloqueado
+2199,778,milagros,cadenas,CC,531108497,1983-10-16,Cl 21 Cr 71N,breegster@live.com,+57 304 286 34 79,Activo
+1884,454,ema,saura,CC,155734995,1993-01-18,Cl 8ª Cr 75P,pplinux@yahoo.com,(+57) 601 513 15 81,Inactivo
+4714,254,angelino,ibanez bonet,CC,419014758,1985-07-27,Cl 196 Cr 16H Bis,nasarius@optonline.net,+57 308 459 75 82,Activo
+9613,573,candelas,gutierrez solana,Pasaporte,713641200,1991-06-07,Cl 162F Cr 4ª,kuparine@live.com,+57 317 475 62 94,Activo
+4879,173,lucio,figuerola lorenzo,CC,801976245,1985-05-19,Cl 4M Bis I Cr 79V,rohitm@comcast.net,(+57) 325 050 48 36,Activo
+2408,653,benita,ramirez ribera,CC,919110862,1973-05-30,Cl 126 Cr 144,msloan@sbcglobal.net,(+57) 310 289 21 84,Activo
+6620,501,zaida,tovar tolosa,CC,152230745,1970-07-05,Cl 1 Bis L Cr 29U Sur,jschauma@sbcglobal.net,(+57)3082086821,Activo
+6462,441,hector,puga tudela,CC,501171073,1982-02-24,Cl 144 Cr 190,ramollin@icloud.com,+57 304 740 31 79,Activo
+4546,935,adelina,carmona bayo,CC,52883344,1975-01-05,Cl 57 Cr 87,seanq@gmail.com,+57 321 326 21 79,Activo
+1156,475,carmelita,tejedor casas,CC,619646627,1991-07-23,Cl 162F Cr 117 Este,bartak_1156@sbcglobal.net,(+57) 609 757 49 64,Bloqueado
+7815,343,bernarda,quero cordoba,Pasaporte,979016150,1975-04-19,Cl 198 Cr 175K,jeteve@outlook.com,(+57)3211496087,Activo
+3816,559,evita,alfaro miguel,CC,150719874,1979-12-10,Cl 1ª Cr 71,wsnyder_3816@live.com,+57 303 628 28 69,Activo
+9899,553,lidia reyes,carbajo pla,CC,239453900,1985-01-15,Cl 114U Cr 4ª,sinclair@gmail.com,(+57) 301 603 15 94,Activo
+7417,279,carlota,rosell banos,CC,177572014,1988-01-08,Cl 20 Cr 96 Bis,gboss@verizon.net,(+57)3051623516,Activo
+6940,602,fausto,montero sanmartin,CE,206063615,1999-10-12,Cl 196 Cr 179P Bis,helger@yahoo.ca,+573076301090,Inactivo
+5570,504,lalo,castellanos rueda,CC,876665520,1997-12-04,Cl 85 Cr 12,chrwin@me.com,+573135068344,Inactivo
+9194,711,sabina,jover mendoza,CC,372531012,1975-05-24,Cl 45Y Cr 19,frosal@me.com,(+57)3282728115,Activo
+2014,783,nuria,mur,CC,674982878,1988-11-06,Cl 178 Cr 28L,jfinke@optonline.net,+57 303 776 56 43,Bloqueado
+2300,458,feliciana,gutierrez mora,CC,23864486,1980-09-18,Cl 90 Cr 165K,tbmaddux@comcast.net,(+57)3164656334,Activo
+2319,708,jeronimo,vidal hernandez,CC,691912985,1991-10-05,Cl 5K Cr 132J,gumpish@aol.com,(+57)3275909045,Activo
+7163,978,fortunata,jordan,CC,16119703,1981-09-21,Cl 50 Cr 60,pplinux@icloud.com,+57 608 167 48 78,Activo
+1631,521,manu,cespedes corominas,CC,324361654,1992-10-24,Cl 1ª Cr 84 Bis W,cvrcek@att.net,(+57) 323 962 45 20,Activo
+2240,495,aurea,guzman,CC,18370176,1998-09-22,Cl 5Z Cr 69,neuffer@verizon.net,+576089082801,Inactivo
+9096,454,modesta,lledo izquierdo,CC,296105733,1987-06-24,Cl 9ª Cr 73,jsbach@msn.com,+57 312 917 79 84,Activo
+6895,691,telmo,lastra cuervo,CE,739713511,1998-02-16,Cl 181W Cr 9ª,biglou@yahoo.com,+573234259674,Activo
+9474,763,iris,camino briones,CC,986651337,1971-04-21,Cl 31 Cr 86,andale@icloud.com,+57 320 191 90 79,Activo
+2737,131,clarisa,belda cid,CC,781415355,1999-05-03,Cl 8ª Cr 1ª,irving@me.com,(+57)3293870247,Activo
+3849,322,petrona,palau soto,CE,921409011,1994-10-24,Cl 25 Cr 8ª,cisugrad@icloud.com,(+57)3021816968,Activo
+5799,939,candido,alcazar canales,CC,495013790,1986-05-13,Cl 3ª Cr 2ª,gator@gmail.com,(+57)3045411646,Activo
+2303,853,jose carlos,lopez lledo,CC,724503128,1989-09-15,Cl 63 Cr 14J,bflong@sbcglobal.net,+57 315 386 68 86,Activo
+2858,309,adoracion,de casanova,CC,810934333,1990-04-21,Cl 2 Sur Cr 144Q,jginspace@outlook.com,+576038676262,Activo
+9548,517,gregorio,salamanca,CC,761885076,1981-05-17,Cl 9Z Sur Cr 27,mugwump@gmail.com,+573102056815,Inactivo
+3348,687,miguel,llopis,CC,779176521,1979-08-29,Cl 193 Cr 103B,noticias@hotmail.com,(+57)3003198924,Activo
+5504,693,eutimio gilberto,pagès ricart,Pasaporte,971350713,1974-01-27,Cl 107Q Cr 123D,bartlett@aol.com,(+57) 607 373 60 47,Activo
+8221,615,anita,roca soler,CC,392320759,1986-08-02,Cl 2S Sur Cr 96V,mlewan@mac.com,(+57) 327 629 23 28,Activo
+4442,541,adalberto,gomis bello,CC,139020604,1990-12-01,Cl 18 Cr 6ª,fukuchi@sbcglobal.net,(+57)6013263545,Activo
+9377,992,paz,giner reig,CC,253962755,1998-07-18,Cl 64 Cr 15,mhoffman@me.com,(+57)3076663153,Activo
+3358,905,horacio,cuellar escobar,CC,121347740,1992-04-14,Cl 79W Cr 140T,mxiao@icloud.com,(+57) 602 305 74 24,Inactivo
+5273,438,urbano,real tolosa,CC,392888831,1972-09-07,Cl 54 Cr 7D,linuxhack@verizon.net,(+57) 301 119 81 50,Activo
+3858,698,curro,segarra peinado,CC,170676800,1990-04-19,Cl 73H Cr 2ª,speeves@me.com,(+57)6078395260,Activo
+1941,484,clemente,nevado,CC,670783846,1999-09-18,Cl 87Z Cr 4B,petersko@sbcglobal.net,+573213739758,Bloqueado
+1151,849,azucena,elias heredia,CC,588919411,1977-01-07,Cl 1ª Cr 47 Bis,baveja@optonline.net,+573023024319,Activo
+1043,322,nicolasa,villena saura,CC,510682516,1989-04-15,Cl 30 Cr 85M,koudas@optonline.net,(+57) 321 235 49 05,Activo
+4180,626,luis,miguel amaya,CC,286649325,1990-04-21,Cl 2Q Cr 54,sravani@hotmail.com,(+57) 322 114 53 94,Activo
+4438,525,salome,pla pons,CC,412785922,1991-10-29,Cl 8ª Cr 141 Sur,crowemojo@optonline.net,(+57) 324 084 82 67,Activo
+4290,711,nazaret,moran escamilla,CC,651493261,1980-08-30,Cl 24 Cr 105,themer@hotmail.com,(+57)3105263750,Activo
+1344,359,rafael edu,zamorano ochoa,CE,585277883,1973-10-09,Cl 8ª Cr 60E,jdhedden@live.com,+573170615025,Activo
+6207,699,sergio,salmeron carreras,CC,891509660,1992-01-22,Cl 5ª Cr 12,chance@live.com,(+57)3148886141,Activo
+9245,664,mamen,del carrasco,CC,805459457,1980-08-19,Cl 82B Bis Cr 127I Este,mcnihil@verizon.net,+57 601 781 82 23,Activo
+1673,158,tecla,aparicio boada,CC,285708725,1978-03-30,Cl 33 Cr 1J Este,jnolan@verizon.net,+57 603 185 15 50,Activo
+1345,657,amado,rodriguez giron,CC,162544143,1988-01-04,Cl 4ª Cr 9C Sur,henkp@icloud.com,+57 602 463 10 83,Bloqueado
+9091,353,jordi,seco canton,CE,63970653,1976-07-01,Cl 40 Cr 25,caidaperl@verizon.net,(+57)3295898136,Bloqueado
+7288,928,manu,vega girona,CC,582302066,1980-06-10,Cl 59 Cr 1ª,thowell@me.com,+57 315 962 80 08,Activo
+8803,736,basilio,riquelme gordillo,CC,582748327,1976-06-21,Cl 112 Cr 188L,techie@yahoo.com,(+57) 602 703 60 17,Activo
+1715,305,emiliano,marin,CC,281220260,1998-11-27,Cl 1ª Cr 193E,mfburgo@sbcglobal.net,+573135372268,Activo
+2208,832,itziar,de castellanos,Pasaporte,953166691,1994-10-29,Cl 6ª Cr 55,dpitts_2208@yahoo.ca,(+57) 327 975 23 13,Activo
+5529,436,carmelita,del cabezas,CC,139877412,1986-10-31,Cl 162 Cr 131,scotfl@gmail.com,+57 309 728 10 32,Activo
+5980,702,rufina,ballester llamas,CC,559141224,1970-12-09,Cl 87 Cr 79,mhouston@mac.com,+573202492413,Activo
+6163,422,obdulia,escribano,CC,824304097,1973-11-23,Cl 2S Cr 29O,mmccool@mac.com,+573045381687,Activo
+3967,539,eli,montero,CC,543800313,1984-04-05,Cl 118 Cr 7ª,gamma@live.com,(+57)3048809440,Activo
+8100,580,edelmiro,exposito colomer,CC,204457864,1989-09-20,Cl 134 Cr 122,gastown@me.com,+57 312 973 85 10,Activo
+5226,785,encarnacion,calderon olmedo,CC,252682074,1998-06-05,Cl 57C Bis V Cr 58,earmstro@optonline.net,+57 320 639 18 42,Inactivo
+4025,495,toribio,aller parra,CC,613887408,1988-12-04,Cl 94 Cr 123X Bis,luebke@gmail.com,(+57)3013462801,Activo
+4446,657,hugo,tamarit hoz,CC,624155381,1990-05-01,Cl 156 Cr 44,jschauma@gmail.com,(+57) 318 145 71 13,Activo
+2746,106,renata,del alberola,CC,217864397,1995-12-13,Cl 139 Cr 54K,kiddailey@hotmail.com,(+57) 609 447 28 63,Activo
+9465,331,prudencio,carreras cobo,CC,434154048,1987-07-02,Cl 4ª Cr 46,hakim@comcast.net,+57 319 040 28 87,Activo
+6381,146,fabio,de arrieta,CC,56247212,1978-12-24,Cl 123L Bis Cr 55,aukjan@sbcglobal.net,(+57) 305 695 51 11,Activo
+8365,299,ciro hernando,puga patino,CC,20817732,1999-06-10,Cl 21 Cr 29I,policies@hotmail.com,+573169200351,Activo
+2290,762,efrain,anguita torres,CC,725926169,1973-07-26,Cl 6ª Cr 58,lbaxter@outlook.com,(+57) 607 726 63 02,Activo
+9317,555,claudia,clemente bertran,CC,395803706,1993-08-30,Cl 53 Cr 2ª,grolschie@mac.com,(+57) 328 835 42 51,Activo
+8906,998,brunilda,paredes fajardo,CC,807114907,1970-12-08,Cl 15 Cr 179,mjewell@hotmail.com,(+57)6038453846,Activo
+3921,904,nicolas,moles colomer,CC,736233686,1988-08-07,Cl 3ª Cr 89,rande@hotmail.com,(+57)3149706074,Activo
+2976,792,fatima,alemany puerta,CC,178759776,1974-04-14,Cl 4ª Cr 8 Sur,gravyface@optonline.net,+573106175415,Activo
+5932,454,gabriela,gonzalez robles,CC,404003734,1972-03-17,Cl 34 Cr 90 Sur,symbolic@aol.com,(+57) 318 232 92 30,Activo
+2934,701,norberto,cerda fernandez,CC,950565134,1998-10-21,Cl 63 Cr 30,payned@sbcglobal.net,+573127683911,Activo
+1282,701,monica,colom larrea,CC,985863175,1984-08-25,Cl 57 Cr 106G,zeitlin@msn.com,(+57) 301 807 13 59,Inactivo
+2223,585,eusebio,gonzalez figuerola,CC,918826012,1974-01-13,Cl 2ª Cr 67,shang@outlook.com,(+57) 322 678 99 07,Activo
+4498,790,isaac,del amaya,CE,736009350,1979-11-30,Cl 144U Cr 17,atmarks@mac.com,+576087452093,Activo
+1729,371,victor,gisbert,CC,775273918,1972-12-22,Cl 5 Sur Cr 160C,jugalator@optonline.net,(+57)3095580755,Activo
+2165,865,paca,castell viana,CC,941762401,1982-03-08,Cl 24 Bis R Cr 61,amimojo@yahoo.com,+57 603 167 73 37,Activo
+2463,462,belen zoraida,baro lozano,CC,540942768,1975-06-20,Cl 38 Cr 61,library@outlook.com,(+57) 322 467 45 18,Activo
+5546,122,pastor,fuente arenas,CC,961401383,1995-09-07,Cl 155 Cr 193P,mwandel@verizon.net,+573095374276,Activo
+9503,489,amaro,quero paredes,CC,7304191,1980-04-12,Cl 187 Cr 15,mfburgo@hotmail.com,(+57)3281599864,Activo
+6758,688,margarita,del coronado,CC,971287195,1995-07-17,Cl 3D Este Cr 123,hyper@yahoo.ca,+57 307 983 53 85,Activo
+7028,391,calixto,espana jove,CC,219786047,1995-11-25,Cl 36 Cr 17,rjones@sbcglobal.net,(+57)3295939086,Activo
+1954,539,sofia,mulet benet,CC,628233487,1987-05-05,Cl 32 Cr 7L,naoya@aol.com,+57 311 356 59 57,Activo
+9870,986,melania ariadna,barcelo garces,CC,865290615,1980-03-30,Cl 196J Cr 1W,hermanab@mac.com,(+57) 306 324 69 93,Activo
+3207,618,albina dulce,nieto ferrandiz,CC,572020453,1997-04-29,Cl 91C Este Cr 35,pakaste@icloud.com,+57 305 117 34 09,Activo
+5473,927,pepita,roig,CC,671492928,1983-08-10,Cl 6B Cr 100,wainwrig@optonline.net,(+57) 325 515 57 24,Activo
+1901,740,marcela,leal montes,CC,494929450,1985-12-26,Cl 195Y Bis L Cr 5ª,jeteve@optonline.net,(+57)3133678650,Activo
+6713,769,paloma,salvà carvajal,CC,773488591,1975-03-26,Cl 179 Cr 9Z,singer@yahoo.ca,(+57) 601 957 07 60,Activo
+7771,525,adelia,marti bello,CC,676219365,1990-10-18,Cl 30 Cr 23,telbij@msn.com,(+57) 305 036 25 40,Activo
+3193,279,atilio,batalla rios,CC,724263810,1988-01-31,Cl 91 Cr 51,bancboy@verizon.net,(+57)3232800601,Activo
+6127,457,felicia,novoa cozar,CC,2616185,1993-05-03,Cl 1ª Cr 90,thassine@sbcglobal.net,+576092017105,Activo
+6646,311,petrona,guardia cespedes,CC,633256764,1993-05-24,Cl 119V Cr 22 Bis O,skajan@gmail.com,+573102235905,Activo
+7799,804,tito,oliveras marmol,CC,772460257,1981-09-30,Cl 10 Cr 195D,mjewell@verizon.net,(+57)3079715657,Activo
+3266,847,urbano,plana cornejo,CE,689835807,1987-04-04,Cl 56 Cr 43,augusto_3266@outlook.com,(+57) 328 676 60 73,Activo
+5067,406,anselma,rodriguez bernad,CC,448859855,1984-07-28,Cl 183S Cr 133C,crandall@comcast.net,(+57)3085287838,Activo
+2343,153,adrian,fabra vina,CC,642631467,1996-03-04,Cl 87 Cr 168 Sur,tokuhirom@msn.com,+57 322 403 49 20,Activo
+1296,256,nicolasa,becerra sanchez,CE,209899915,1984-07-02,Cl 16 Cr 124,martyloo@verizon.net,+57 607 291 53 28,Activo
+6238,719,agata,carbajo calvo,CC,384455734,1982-06-02,Cl 108W Cr 115B Este,floxy@gmail.com,+57 324 404 51 64,Activo
+8285,697,pepita laura,llado franch,CC,666570236,1992-07-12,Cl 175 Cr 28T,paulv@verizon.net,(+57) 301 549 49 80,Activo
+8991,301,noemi,carpio seco,Pasaporte,521425180,1973-03-08,Cl 69 Cr 49J,linuxhack@msn.com,+573252393874,Inactivo
+7556,322,edelmira,mosquera recio,CC,598276965,1993-03-13,Cl 119 Cr 9I,tlinden@mac.com,+573276065203,Activo
+1009,164,petrona,fonseca martinez,CC,867814082,1977-05-03,Cl 148B Bis Cr 3G,juerd@gmail.com,+57 319 936 41 77,Activo
+4814,437,fernando,peralta arevalo,CC,526325740,1983-05-29,Cl 18 Cr 87,stellaau@comcast.net,+576089094928,Activo
+1212,225,ariel florencio,davila aramburu,Pasaporte,678960356,1975-02-23,Cl 8K Este Cr 7ª,miturria@yahoo.ca,(+57) 325 508 63 77,Inactivo
+1073,105,magdalena,almansa bayona,CC,984043353,1983-11-11,Cl 2V Cr 2Q,inico@yahoo.com,+573010162021,Bloqueado
+4325,939,amancio chuy,canas garcia,CC,988327855,1974-05-01,Cl 181 Bis Cr 109,joelw@verizon.net,(+57)3238364394,Activo
+4551,892,xiomara,albero palomares,CC,415060922,1971-11-05,Cl 37 Cr 116,jshirley@me.com,+57 311 071 80 04,Activo
+2790,831,moreno,del armas,CC,46698250,1976-06-14,Cl 118 Cr 3P,ranasta@mac.com,(+57) 305 484 20 29,Activo
+9265,708,mayte,arjona mir,CC,231555060,1976-08-13,Cl 9ª Cr 2ª,frikazoyd@live.com,+573137366930,Activo
+1594,586,elena,conde alonso,CC,947109905,1977-01-02,Cl 85 Cr 117,osrin@aol.com,+576059803301,Activo
+6282,352,celia,peinado riquelme,CC,979091865,1998-03-27,Cl 3Y Cr 94,pthomsen@verizon.net,(+57)3227164573,Inactivo
+1734,257,jose,mas diaz,CC,998739481,1976-11-28,Cl 47 Cr 6K,eurohack@optonline.net,(+57) 310 445 23 21,Activo
+1929,759,marco,del almansa,CC,374349743,1986-07-31,Cl 25 Sur Cr 3ª,csilvers@outlook.com,+57 316 057 97 28,Activo
+6863,664,ariel,martorell quero,CE,421110207,1993-08-18,Cl 5ª Cr 1ª,rasca@icloud.com,(+57) 321 726 11 42,Activo
+9843,981,claudia,ibanez macias,CC,181220078,1974-12-05,Cl 18 Bis C Cr 62,donev@yahoo.com,+573133837361,Activo
+7098,458,morena,llanos dalmau,CC,668686983,1998-02-03,Cl 132 Bis Cr 87,psichel@yahoo.ca,+57 314 910 87 77,Activo
+9587,299,tecla gertrudis,fortuny santana,Pasaporte,709062259,1970-05-17,Cl 24 Cr 160,ranasta@att.net,(+57) 300 032 26 50,Activo
+7243,586,jose francisco,marti crespo,CC,254141779,1983-07-04,Cl 179R Sur Cr 79Z Este,lbaxter@verizon.net,+573290395747,Activo
+5393,998,teresita,donaire prieto,Pasaporte,228264981,1988-06-14,Cl 12 Cr 154N Bis,rnewman@yahoo.com,(+57)3183125030,Activo
+8444,129,sofia,campillo melendez,CC,85227679,1977-12-31,Cl 187E Cr 80,intlprog@optonline.net,(+57)3009432652,Activo
+9522,685,paola anastasia,peral gracia,CE,423534637,1984-12-03,Cl 90 Cr 135S Bis,jgoerzen@sbcglobal.net,(+57) 605 199 74 95,Activo
+4861,156,fabian,ojeda duran,CE,531282097,1972-04-29,Cl 149M Cr 10,shrapnull@mac.com,+573247862026,Activo
+4765,999,pascuala,conde amat,CC,821989118,1984-12-23,Cl 34 Cr 34B,teverett@yahoo.com,(+57)3017711795,Bloqueado
+5378,218,vicente,de manzano,CC,401963800,1970-04-13,Cl 51L Cr 67G Bis C,jdhedden@verizon.net,(+57) 320 973 11 31,Activo
+2837,739,serafina,de suarez,CC,398115604,1977-03-13,Cl 5ª Cr 6ª,miami@hotmail.com,+573128524953,Activo
+9228,371,benita susanita,segarra comas,CC,934484392,1984-04-03,Cl 23B Cr 59,reeds@sbcglobal.net,+573180782705,Activo
+6730,627,casemiro,aliaga arce,CC,526566962,1983-05-29,Cl 43 Cr 73,jmmuller@hotmail.com,(+57) 304 018 85 72,Activo
+8094,561,renato,machado pla,CC,288038258,1993-12-30,Cl 6ª Cr 37,mailarc@verizon.net,+57 306 908 72 78,Activo
+5810,260,desiderio,mendoza escobar,CC,304105230,1980-12-19,Cl 182G Cr 185,sfoskett@sbcglobal.net,+573240087636,Activo
+5148,475,gerardo,bernat barros,CC,543226116,1991-02-17,Cl 5C Cr 91M,eurohack@yahoo.ca,+57 306 287 67 86,Activo
+2725,486,hugo,torrecilla canals,CC,592599033,1973-09-15,Cl 74 Cr 6ª,ahmad@yahoo.com,(+57) 303 401 50 33,Activo
+7030,139,mamen,ortega ferrer,CC,787222966,1977-03-13,Cl 65 Cr 58,lstein@hotmail.com,+573201868376,Inactivo
+9749,851,ciriaco,del ruano,CC,39846776,1994-01-16,Cl 21 Cr 120Y,bmidd@aol.com,(+57) 601 338 32 33,Activo
+3177,136,reynaldo,gargallo salcedo,CC,358794161,1971-12-19,Cl 18 Cr 184L,stecoop@msn.com,+57 313 537 84 30,Activo
+1703,893,blanca,quero alcantara,Pasaporte,426450499,1989-02-11,Cl 22 Cr 23,ateniese@icloud.com,+573032324636,Activo
+6295,708,concepcion,catalan,CC,858107519,1979-11-03,Cl 123 Bis Cr 145,carcus@mac.com,+57 301 646 42 00,Activo
+3456,826,carolina,bilbao iniguez,CC,304592420,1976-08-19,Cl 100P Av Kelly Mariela Cardozo Cruz,klaudon@gmail.com,+573037443238,Inactivo
+2142,847,luisina,gonzalez ferran,CC,834981171,1984-12-18,Cl 9ª Cr 35H,lishoy_2142@gmail.com,(+57)3258121636,Activo
+1950,289,filomena,larranaga andrade,CE,995040459,1992-09-01,Cl 22 Bis Cr 110R,rfisher@hotmail.com,(+57)6077418579,Activo
+3285,542,marta,roldan galvan,CC,934853276,1973-03-01,Cl 56O Cr 129,mxiao@yahoo.com,+57 303 317 38 35,Activo
+9226,200,alma,valderrama cortes,CC,492832837,1975-05-31,Cl 198D Cr 4Q,reziac@att.net,+573295614884,Activo
+5581,181,alcides,viana benavente,CC,796096468,1978-09-15,Cl 49 Cr 26,mailarc@att.net,(+57)3246457982,Activo
+4363,348,santiago,garmendia domenech,CC,471774069,1981-02-07,Cl 117 Bis Cr 1 Bis B,brainless@msn.com,(+57) 606 788 64 78,Activo
+6787,790,nerea,torrent valverde,CC,998786632,1989-01-09,Cl 25 Cr 32,akoblin@comcast.net,+57 315 370 32 89,Activo
+6660,693,angeles,del higueras,CC,420934442,1977-11-14,Cl 63 Cr 64K,geoffr@optonline.net,+57 306 914 72 66,Activo
+4228,541,octavio,de andres,CC,761862893,1970-09-15,Cl 46 Cr 1ª,shawnce@gmail.com,+576021233560,Activo
+8159,306,eligio,herrero canet,CC,689713553,1999-02-01,Cl 63 Cr 9ª,trygstad@mac.com,(+57) 328 532 50 22,Activo
+3872,775,elias,carbonell pareja,CC,63665655,1996-07-21,Cl 16 Cr 84,plover@me.com,+573190247499,Inactivo
+1568,200,elvira,olmedo girona,CC,301746767,1998-10-08,Cl 25 Cr 68,choset@optonline.net,+57 604 387 87 04,Activo
+7863,996,sosimo,landa aragones,CC,236187178,1971-02-21,Cl 2V Cr 42,caidaperl@aol.com,+57 607 686 54 56,Inactivo
+3040,428,clotilde,del osorio,CC,822427974,1976-04-25,Cl 171X Bis T Cr 153 Bis F,murdocj@gmail.com,(+57) 306 661 12 38,Activo
+8291,798,alcides,tello fernandez,CC,315405634,1979-03-10,Cl 37 Cr 161,grossman@verizon.net,(+57)3250670903,Activo
+3354,494,sigfrido,simo benavent,CC,880007198,1997-11-11,Cl 141 Cr 41,bartlett@mac.com,+57 608 665 95 72,Activo
+2884,171,nerea,leon puga,CC,358205912,1982-10-23,Cl 5B Cr 129D Bis C,claesjac@aol.com,(+57) 303 385 90 83,Activo
+9578,646,david,ballesteros francisco,CC,637260610,1993-07-22,Cl 43B Cr 39,jadavis@icloud.com,(+57) 306 336 12 94,Activo
+3009,563,eva araceli,marcos cerdan,CC,251715,1986-08-11,Cl 16 Cr 67,vmalik@msn.com,+573216601677,Activo
+1565,861,tecla,conesa,CC,199096749,1981-04-26,Cl 103 Bis Cr 4 Sur,slaff@me.com,(+57)3109709114,Activo
+9318,351,mayte,isern garate,CE,7028839,1979-05-20,Cl 71 Cr 42,kjohnson@gmail.com,+573057106498,Activo
+6725,462,ignacio,bauzà torrens,CC,943948633,1999-09-07,Cl 41 Cr 1ª,weazelman@icloud.com,(+57) 305 313 19 39,Activo
+7597,206,amor,estrada querol,CE,526223769,1981-09-20,Cl 189 Bis Cr 136 Sur,ivoibs@icloud.com,(+57)3009416404,Activo
+2354,978,gabino,aranda godoy,CC,88854307,1994-07-13,Cl 115V Cr 49,atmarks@aol.com,+573041605674,Activo
+7621,935,geronimo,asenjo,CC,293569902,1987-05-06,Cl 120 Bis Cr 187A,hermanab@live.com,+57 324 339 20 34,Activo
+8541,825,enrique,andreu cueto,CC,68104531,1990-04-05,Cl 59 Cr 75U Bis Z,matty@yahoo.ca,(+57) 603 437 79 83,Activo
+5902,611,clara,canton farre,CC,383342929,1987-08-23,Cl 150M Sur Cr 16E Este,enintend@verizon.net,+57 606 291 36 03,Activo
+3090,543,baudelio,asensio,CC,692809283,1978-03-24,Cl 75 Cr 83,dsugal@me.com,(+57) 307 568 23 48,Activo
+1096,249,pepita,del grau,Pasaporte,719549319,1998-08-16,Cl 95 Cr 56,openldap@outlook.com,+57 606 243 61 97,Activo
+3958,439,alba,batalla valls,Pasaporte,367236878,1997-04-24,Cl 4ª Cr 14,lishoy@comcast.net,(+57) 326 341 39 75,Activo
+3476,817,bernardino,patino aguado,CC,626940779,1996-02-04,Cl 79X Cr 122K,temmink@optonline.net,+57 313 798 57 53,Activo
+5109,259,esteban,vaquero dominguez,CC,642640928,1980-08-03,Cl 4U Cr 71,wildixon@optonline.net,+57 322 830 70 79,Activo
+2977,336,anacleto,tomas torrecilla,CC,560932409,1999-04-19,Cl 80 Cr 78 Sur,peoplesr@outlook.com,(+57) 310 424 39 55,Activo
+6401,629,severino,nicolau vizcaino,CC,251465207,1973-03-04,Cl 9C Cr 67G Este,psichel@aol.com,+57 320 479 72 10,Activo
+6201,241,corona,feijoo pi,CC,206524709,1979-04-06,Cl 33 Cr 94,wilsonpm_6201@aol.com,(+57)3137774439,Inactivo
+3774,605,rafaela,hurtado reguera,CE,608367414,1996-11-02,Cl 149 Cr 4B,mlewan@live.com,+57 608 982 17 38,Activo
+1533,601,zaira,calderon arino,CC,707001621,1998-04-01,Cl 48S Cr 5ª,okroeger@yahoo.com,+576084822652,Inactivo
+9224,131,anibal,acero,CC,797265211,1987-02-22,Cl 29S Cr 172,jgmyers@att.net,(+57) 603 467 53 83,Activo
+1314,385,leocadio,palomo palomares,CC,105797115,1993-05-23,Cl 112 Cr 3Z,torgox@verizon.net,(+57)3075617270,Activo
+6584,926,juan carlos,delgado duran,CC,852658602,1974-04-25,Cl 7O Cr 94,eurohack@verizon.net,(+57)3098892726,Activo
+5074,352,elvira,bravo cano,CC,935524139,2000-02-24,Cl 14B Bis Cr 5E Este,grinder@mac.com,+57 607 569 38 89,Activo
+3392,534,demetrio,de larranaga,CC,276393660,1995-10-01,Cl 62M Bis Cr 187Z,mallanmba@comcast.net,(+57) 312 364 18 66,Activo
+9967,703,hernando,garay,CE,185240225,1995-10-05,Cl 51 Cr 98,martyloo@sbcglobal.net,(+57)3048397441,Activo
+3027,286,isabela,roma jurado,Pasaporte,804013896,1992-01-16,Cl 30 Cr 84,smcnabb@yahoo.com,(+57) 305 485 57 14,Activo
+8454,634,roberto,tomas bermudez,CC,697220230,1970-06-19,Cl 119 Cr 3ª,msherr@yahoo.ca,+57 306 435 35 17,Activo
+9911,408,yolanda,oliva polo,CC,150962978,1990-02-17,Cl 48 Cr 67X,grothoff@icloud.com,+57 314 570 68 48,Activo
+9704,130,rosendo,pinilla bustamante,CC,883763288,1974-09-29,Cl 180 Cr 187,budinger@icloud.com,(+57)6037767272,Activo
+3238,165,vanesa celia,ibanez ferrer,CC,268373732,1991-06-26,Cl 16 Bis H Cr 128E Bis,arathi_3238@comcast.net,+57 605 234 32 91,Activo
+6979,999,albina,de fiol,CC,113092358,1972-08-03,Cl 178K Cr 53S,dpitts@sbcglobal.net,(+57)6088256757,Activo
+5309,858,georgina,arroyo araujo,CC,875237826,1998-05-12,Cl 109 Este Cr 63 Sur,osaru@me.com,+57 321 129 43 07,Activo
+1918,487,celestina,rodrigo hidalgo,CE,887361495,1984-03-28,Cl 2ª Cr 53,jramio@gmail.com,(+57) 604 498 84 55,Activo
+8128,731,felicidad,de bernal,CC,163596348,1998-06-09,Cl 74 Cr 9H,kudra@comcast.net,+576026223161,Activo
+3489,996,valeria,almansa barcena,CE,680955672,1993-09-29,Cl 92 Cr 123,yruan@icloud.com,(+57) 325 208 91 63,Activo
+3727,225,javier,cortina grau,CC,693921382,1976-05-17,Cl 3ª Cr 1U,petersen@msn.com,+576081628739,Activo
+6058,829,manolo isidro,ros salgado,CC,830317302,1989-05-27,Cl 34 Cr 11,jbearp@sbcglobal.net,+573005717826,Activo
+7185,903,concepcion,bustamante,CC,741356749,1988-07-28,Cl 47Z Bis B Cr 199Z,kjohnson@mac.com,+57 605 994 42 96,Activo
+1612,565,viviana,tur asensio,CE,891492931,2000-01-04,Cl 71 Cr 6ª,jaesenj@comcast.net,(+57) 319 582 96 08,Activo
+2407,254,emilia,valentin coello,CC,357120519,1977-10-20,Cl 52U Sur Cr 5B,offthelip@yahoo.ca,+57 304 052 51 83,Activo
+6466,928,barbara,arcos cases,CC,684260295,1997-07-07,Cl 117 Bis Cr 164,jeffcovey_6466@me.com,(+57)6047382999,Activo
+4743,557,martin,gimenez herrera,CC,599925189,1984-09-07,Cl 82 Cr 97 Bis N,pgolle@aol.com,+57 306 897 08 84,Activo
+6720,463,gaston,real barriga,CC,821273968,1986-02-13,Cl 199 Cr 150 Bis,mdielmann@verizon.net,(+57)3228464568,Bloqueado
+3697,933,estefania,penas,CC,709553550,1982-09-26,Cl 197 Cr 103,gerlo@optonline.net,(+57) 601 783 81 31,Inactivo
+9305,482,loreto estrella,vinas juan,CC,330355528,1981-04-14,Cl 141 Cr 129K Sur,sarahs@verizon.net,(+57) 300 213 45 84,Activo
+3769,278,emperatriz,quiros aguirre,CC,212151177,1981-02-19,Cl 46I Cr 8 Bis J,galbra@comcast.net,(+57) 603 433 70 07,Inactivo
+6854,341,leocadio,escalona,CC,658007959,1994-01-06,Cl 108K Sur Cr 96,kaiser@comcast.net,+57 310 967 60 95,Activo
+2372,436,carina,barroso lopez,CC,863246929,1974-01-07,Cl 148 Cr 68,kildjean@hotmail.com,(+57) 312 779 39 66,Activo
+6618,618,damian,tomas solis,CC,705596877,1981-05-01,Cl 75 Cr 133F,cliffordj@yahoo.ca,(+57) 306 944 81 52,Activo
+6516,609,isaac,vallejo coll,CC,269514693,1986-06-11,Cl 10C Bis Cr 67H,breegster@outlook.com,+57 605 178 23 31,Activo
+8607,188,fernanda,lozano bastida,CE,430817952,1986-10-11,Cl 40 Cr 9ª,calin@comcast.net,(+57) 315 216 78 16,Activo
+7210,519,angelica,diego cuellar,CE,666800731,1984-02-01,Cl 19 Cr 8ª,sfoskett_7210@att.net,+576029500125,Activo
+5912,408,jose luis,lorenzo losada,CC,304168701,1988-01-30,Cl 2W Cr 61 Sur,singer@att.net,(+57) 316 291 32 37,Activo
+4699,329,maria,saenz azorin,CC,158860969,1979-12-22,Cl 77 Cr 65,vsprintf@att.net,+57 300 905 35 61,Activo
+5395,996,hernando,olmedo segui,CC,770267152,1973-01-04,Cl 24 Cr 19J,mhassel@msn.com,(+57)3208205594,Activo
+8067,259,mamen,chacon crespo,CC,67820213,1987-08-18,Cl 4ª Cr 2ª,weidai@sbcglobal.net,(+57)3126146913,Bloqueado
+8167,958,morena,ros estrada,CC,802276096,1988-09-14,Cl 22 Cr 51,quantaman@msn.com,(+57)3114170767,Activo
+5219,957,berta,mena rivas,CC,961300192,1998-03-30,Cl 32 Cr 8ª,timtroyr@gmail.com,(+57) 329 022 55 73,Activo
+3220,842,carmen,alemany bertran,CC,123075840,1995-01-13,Cl 80 Cr 6K Bis Q,papathan@att.net,(+57) 323 897 36 04,Activo
+4183,453,emilia,oliveras granados,CC,827439696,1987-07-01,Cl 94O Cr 30,jyoliver@att.net,(+57)6087697305,Activo
+7492,136,jaime,santiago vazquez,CC,140053818,1999-04-15,Cl 190 Sur Cr 179X Este,steve@sbcglobal.net,(+57)3138083674,Activo
+1278,109,clemente,de coloma,CC,935474011,1996-08-18,Cl 60 Cr 20,falcao@live.com,+57 322 609 90 01,Activo
+9991,855,hilda,del tapia,CC,537071616,1999-05-27,Cl 56 Cr 12Y,wildfire@mac.com,+573278366946,Activo
+6926,362,espiridion,abril marti,CC,288176132,1984-01-22,Cl 58 Cr 37,pfitza@comcast.net,+57 608 539 51 76,Activo
+2332,649,porfirio,cal bru,CC,143070622,1983-12-23,Cl 69 Cr 125 Bis D,staffelb@mac.com,(+57) 319 297 01 92,Activo
+8965,815,maria angeles,de valbuena,CC,367354960,1979-04-22,Cl 2Y Cr 90,chaffar@live.com,(+57)3188118292,Inactivo
+5848,611,dario,davila,CC,628398993,1990-06-08,Cl 39M Cr 74U,bmidd@gmail.com,+57 318 833 84 56,Activo
+2462,769,victor,manuel sedano domingo,CC,90753233,1981-03-31,Cl 26 Sur Cr 1 Este,north@live.com,(+57) 328 238 63 44,Activo
+2344,353,marcela,saura,CC,515543300,1994-12-17,Cl 156 Cr 29K,scottzed@gmail.com,+573271532339,Activo
+2687,561,rosalva,carreras calatayud,Pasaporte,634110721,1984-02-24,Cl 108 Cr 21,jramio@icloud.com,(+57)3299136130,Activo
+5728,529,agata,bermudez espejo,CE,178613123,1980-07-06,Cl 8L Este Cr 48,wagnerch@yahoo.com,+573252371491,Activo
+1015,557,leire,bellido carmona,CC,402247340,1992-12-16,Cl 64L Bis N Cr 87,nighthawk@aol.com,+57 312 173 56 39,Activo
+6249,237,consuela emilia,cuenca cerdan,Pasaporte,546577647,1973-04-18,Cl 75 Cr 9ª,pthomsen@yahoo.com,+57 302 409 43 04,Bloqueado
+1011,391,juan luis,angel alemany,CC,772352784,1986-08-09,Cl 6ª Cr 8ª,nelson@yahoo.com,(+57)3172148685,Activo
+3302,772,nazaret,garrido llado,CC,756488503,1972-05-15,Cl 94 Cr 6ª,augusto@gmail.com,(+57) 318 978 34 68,Activo
+8275,535,elena,pons,CC,310234760,1978-05-29,Cl 13 Cr 4K,jrifkin@outlook.com,(+57)3221584503,Activo
+6983,712,pilar,castells fernandez,CC,78431532,1978-09-28,Cl 128I Bis Cr 37W Este,pgolle@outlook.com,+57 304 059 36 55,Inactivo
+7280,581,jose maria jacobo,ojeda montesinos,CC,621927069,1994-07-22,Cl 6ª Cr 6F,sekiya@live.com,(+57) 311 217 54 26,Activo
+1781,861,manolo,de pavon,CC,727013528,1987-01-06,Cl 94 Cr 176,airship@verizon.net,(+57) 602 517 52 55,Activo
+3375,133,candido,beltran pino,CC,885195964,1994-05-03,Cl 31 Cr 118,credmond@hotmail.com,+573218723238,Bloqueado
+2253,342,apolonia,del real,CC,429173160,1979-07-20,Cl 51 Cr 91D,parrt@outlook.com,(+57) 314 286 60 62,Activo
+7286,597,zoraida,rovira arce,CC,911110458,1987-03-25,Cl 5 Bis Y Cr 139,mwandel@att.net,+57 602 263 91 93,Activo
+3423,772,elpidio,pont exposito,CC,832463428,1999-12-23,Cl 4R Cr 2K,lamprecht@live.com,(+57)3281538741,Activo
+8868,485,joan,lobo haro,CC,934276610,1983-12-04,Cl 17Y Cr 116H,fudrucker@live.com,+57 309 992 32 24,Activo
+1220,472,nayara,gimeno velasco,CE,405480293,1981-03-12,Cl 8ª Cr 35,ntegrity@aol.com,+573253469184,Activo
+8029,585,africa,del conde,CC,730757338,1988-12-17,Cl 57 Cr 66T,shaffei@outlook.com,(+57)6029927340,Inactivo
+6391,476,angela,pinedo vendrell,CC,825547523,1988-09-11,Cl 172 Cr 98,tellis@yahoo.com,+57 604 267 81 83,Activo
+8198,279,joan,fabregat ochoa,CE,809990447,1990-08-01,Cl 3R Bis Cr 5ª,mcraigw@yahoo.ca,+57 301 063 55 75,Activo
+2388,471,cruz,tamayo carpio,Pasaporte,395851178,1985-09-14,Cl 9ª Cr 9ª,clkao@outlook.com,+573027977727,Activo
+3201,699,pascual,pedro ruiz,Pasaporte,929067590,1972-08-21,Cl 118D Cr 4ª,kwilliams@icloud.com,(+57)6031852334,Activo
+8350,372,melisa,guitart,CC,275035341,1984-05-26,Cl 1ª Cr 68,munson@icloud.com,+57 309 533 72 48,Activo
+2059,752,anacleto,caballero ferrera,CC,163507168,1980-09-28,Cl 4T Cr 15,nwiger@aol.com,(+57) 603 428 33 34,Activo
+2424,850,vicente,calleja,CE,82874005,1995-11-11,Cl 14 Cr 13,epeeist@gmail.com,+576033362015,Activo
+8590,169,marco,ropero,CC,906702411,1986-12-10,Cl 124 Cr 9ª,krueger@comcast.net,(+57) 609 510 43 17,Activo
+1256,336,cristian,baquero canovas,CE,189638297,1998-05-19,Cl 22 Cr 16,dsugal@live.com,+57 325 893 78 84,Activo
+1552,553,josep,reina prieto,CC,227323929,1981-01-13,Cl 9A Cr 4Q,tellis@me.com,(+57)3281364563,Activo
+9816,883,florinda,anguita sancho,CC,6038,1990-03-16,Cl 48 Cr 34,inico@aol.com,+57 310 876 32 47,Activo
+9920,951,calixta,villaverde acosta,CC,389340566,1991-09-02,Cl 155 Cr 9W,bebing@optonline.net,(+57)3052408531,Activo
+9478,931,marisela,milla martorell,CC,317702434,1993-01-20,Cl 12 Cr 30,jdray@aol.com,(+57) 302 867 47 77,Activo
+7000,135,rosendo,almeida naranjo,CC,467316166,1979-09-24,Cl 64 Cr 24,irving@sbcglobal.net,+57 322 917 02 34,Activo
+9099,790,ana sofia,colomer martin,CC,412786274,1990-12-01,Cl 74 Cr 8ª,andersbr@hotmail.com,+573091773863,Activo
+9856,557,rolando,caballero nino,CC,379024444,1996-05-01,Cl 44J Cr 104M,parrt@yahoo.ca,(+57)3178613181,Activo
+3265,673,paola,casanovas riba,CC,290744247,1980-09-22,Cl 66T Cr 3ª,cliffski@live.com,(+57) 601 628 62 24,Activo
+5068,387,lupita,del sanjuan,CC,212626158,1976-11-20,Cl 76 Cr 52S,mlewan@att.net,(+57) 607 720 16 20,Activo
+6896,385,modesto,franco hervia,CC,686112145,1977-11-02,Cl 52 Cr 65,dwsauder@yahoo.com,(+57)3106459401,Bloqueado
+3634,367,modesto,morante,CC,872332904,1972-02-11,Cl 12 Cr 174J,djupedal@yahoo.com,+576075949209,Activo
+5159,373,clemente,ferrero garmendia,CC,851528244,1980-09-26,Cl 141 Cr 49,dpitts@mac.com,(+57)3033804569,Activo
+5050,946,guiomar,ferrera,CC,150619146,1994-04-17,Cl 52 Cr 28B Sur,kevinm@live.com,(+57)3030029163,Activo
+6247,385,araceli,borrell armas,CC,537801552,1992-10-27,Cl 65B Cr 96N,okroeger@gmail.com,+57 602 908 35 60,Bloqueado
+8269,484,jorge,gutierrez caparros,Pasaporte,577368952,1985-12-19,Cl 20 Bis H Cr 76,smpeters@optonline.net,+57 609 621 84 89,Activo
+1682,229,beatriz mamen,casanovas ruiz,CC,979312455,1988-12-11,Cl 33G Cr 35,balchen@aol.com,+57 309 266 64 74,Activo
+6354,489,vicenta,rivero otero,CC,147840643,1981-07-11,Cl 4Q Cr 144,marin@att.net,(+57) 320 938 85 01,Activo
+6072,610,vicenta,sole palma,Pasaporte,481479543,1978-06-23,Cl 26 Cr 1ª,bdthomas@yahoo.ca,(+57) 329 343 43 47,Bloqueado
+1194,764,alejandra,beltran fuente,CC,171757963,1983-02-13,Cl 153M Cr 111,sartak@outlook.com,+57 311 380 48 10,Activo
+2855,226,ruperta,casanova bermudez,CC,323210195,1978-08-30,Cl 115E Cr 3O Bis U,jmmuller@yahoo.com,(+57) 305 750 59 21,Activo
+6196,933,nicolas,ayala campoy,CC,56214344,1998-07-19,Cl 20 Cr 174,bowmanbs@me.com,(+57) 323 044 13 46,Activo
+9312,651,leopoldo,del saez,CC,36289359,1995-10-28,Cl 32E Avenida Duvan Cristian Barrios Morales,parsimony@live.com,(+57)3274697180,Activo
+1746,366,haroldo,del hoyos,CC,699723886,1990-06-29,Cl 189 Cr 174,weazelman@optonline.net,(+57)6035768297,Activo
+8180,486,juanita pastora,escolano mari,CC,603704519,1980-04-11,Cl 174 Cr 156,dexter@aol.com,+57 311 465 07 67,Activo
+7005,738,jenny,manuel llorens,CC,116951676,1975-11-29,Cl 72 Cr 164A Bis,avalon@att.net,(+57) 316 835 79 34,Activo
+5744,254,belen,cantero uria,CC,32580706,1977-09-19,Cl 8ª Cr 43,mgemmons@optonline.net,+573191463760,Activo
+3992,188,candela,grande arenas,CC,751036279,1991-05-07,Cl 5B Cr 121,djpig@aol.com,(+57)6052971445,Activo
+2895,772,socorro,sans pomares,CE,387600580,1976-11-25,Cl 9Q Cr 78C,bartak@comcast.net,(+57)6039870307,Activo
+4186,263,nazaret,antunez rios,CE,37925772,1986-08-09,Cl 10 Cr 150,jmcnamara@yahoo.com,(+57)3228414544,Activo
+7601,927,yago,teruel palomino,CC,111669275,1976-11-20,Cl 50 Cr 8ª,aibrahim@comcast.net,(+57) 606 366 95 86,Activo
+3893,883,lola,crespi lobato,CC,31883548,1977-02-19,Cl 25 Cr 56,duncand@yahoo.com,(+57) 322 438 20 40,Activo
+8776,417,matias,agudo ruiz,CC,304827458,1992-01-30,Cl 127 Cr 4ª,bdbrown@att.net,(+57)3212226771,Activo
+9399,723,luisa,redondo salom,CC,98863774,1973-07-01,Cl 21P Cr 64,dburrows_9399@comcast.net,+57 605 396 52 51,Activo
+7476,773,isa,trillo rozas,CC,466930229,1972-04-09,Cl 79 Bis B Cr 72,monkeydo@att.net,+57 320 211 20 62,Activo
+3004,626,asdrubal,estevez solis,CC,420568112,1992-01-27,Cl 25 Cr 9ª,amichalo@verizon.net,(+57)3044175958,Inactivo
+2149,139,ruth,blazquez cerro,CC,896231008,1999-12-05,Cl 5O Cr 134A,gravyface@aol.com,+573242985981,Activo
+5456,472,hernando,del nieto,Pasaporte,905923027,1975-09-16,Cl 2ª Cr 141,webdragon@msn.com,+57 310 721 64 19,Activo
+7198,698,silvio,vilanova amador,CC,749314608,1986-10-15,Cl 103 Cr 197T,matthijs@me.com,(+57) 303 664 71 78,Activo
+9868,815,damian,andrade,CC,206239490,1980-10-30,Cl 148 Cr 144,kidehen@msn.com,+57 607 172 40 26,Activo
+8324,475,patricio,velasco,Pasaporte,208962609,1983-09-28,Cl 13 Cr 6E,rjones@yahoo.com,+573025953473,Activo
+9125,738,antonio,mendizabal sevillano,CC,762520465,1983-05-01,Cl 30 Cr 80 Este,zavadsky@yahoo.ca,+57 304 398 28 28,Activo
+6086,997,aitana,escudero hidalgo,CC,544478391,1982-07-08,Cl 93 Cr 140,jaesenj@icloud.com,(+57)3252874815,Inactivo
+3385,781,magdalena,castell rey,CC,505640140,1975-01-27,Cl 81 Cr 189,smcnabb@mac.com,+57 305 797 58 77,Inactivo
+9676,633,baltasar,del giner,CC,113594335,1978-08-28,Cl 9E Cr 3L,sagal@outlook.com,(+57) 311 235 17 36,Bloqueado
+9518,712,martirio,samper tena,CC,925162521,1998-07-07,Cl 16F Bis Cr 8P Este,dwendlan@gmail.com,+576055947985,Activo
+9497,318,arsenio,haro ledesma,CC,32274453,1995-07-12,Cl 161 Cr 116V,nweaver@att.net,+576049355165,Inactivo
+6273,411,herminia,nevado pagès,CC,371171205,1986-01-10,Cl 7G Cr 126,odlyzko@icloud.com,(+57) 318 172 59 43,Activo
+5510,996,apolonia,luis bernat,CC,754878935,1983-04-10,Cl 97 Avenida Cristian Pineda Gonzalez,jipsen@mac.com,(+57)6061715473,Activo
+3255,254,lina,porcel bustamante,CC,239694269,1994-06-20,Cl 5ª Cr 151,bogjobber@outlook.com,+573186859524,Activo
+1197,764,jose luis,ferrandiz cornejo,CC,86688107,1985-07-12,Cl 62 Bis Cr 32,benanov@att.net,+57 319 292 07 60,Activo
+7356,179,belen,chaparro,CC,927238473,1970-08-29,Cl 92 Cr 4X,rnewman@verizon.net,+57 318 857 90 48,Activo
+9674,410,poncio,cerdan,CC,268871036,1991-11-23,Cl 60 Cr 81,oracle@hotmail.com,(+57)3123726760,Activo
+9124,350,andres,domenech almazan,CC,991638552,1976-09-01,Cl 4ª Cr 41,ianbuck@yahoo.com,+576037222945,Activo
+3164,327,cecilio apolinar,salas aleman,CC,512776005,1998-12-30,Cl 175 Cr 43I Este,hampton@hotmail.com,(+57)3140367205,Activo
+7348,487,otilia,ropero macias,CC,797046395,1978-11-16,Cl 130 Cr 75,boomzilla@sbcglobal.net,(+57) 304 171 62 41,Activo
+2986,938,severo,de goni,CC,35199253,1984-01-17,Cl 180 Cr 102,bulletin@att.net,(+57)3035103498,Activo
+8096,827,chuy,julian cabrero,CC,301193610,1997-07-24,Cl 129F Cr 4ª,animats@msn.com,(+57)3200465707,Bloqueado
+3733,845,adelia,campo bueno,Pasaporte,30640211,1972-07-06,Cl 104N Cr 93,dieman@mac.com,(+57)6042812365,Activo
+8859,440,anacleto,paniagua antunez,CC,21145185,1981-04-21,Cl 52 Cr 134,augusto@yahoo.com,(+57) 328 977 28 72,Activo
+3206,386,regulo,larrea pereira,CC,708843220,1997-12-30,Cl 4M Cr 30,dunstan@outlook.com,+57 608 930 09 72,Activo
+8486,747,pacifica,guardiola rosa,CC,31125954,1991-09-05,Cl 55 Cr 2W Bis Z,mhoffman@sbcglobal.net,(+57) 609 226 20 12,Activo
+6229,124,victorino,aramburu,CC,398710807,1973-02-09,Cl 90 Bis D Cr 136,weazelman@gmail.com,+57 316 286 97 59,Activo
+4950,933,bibiana,mata alcolea,CC,749050956,1997-06-07,Cl 2ª Cr 78,mirod@icloud.com,(+57)3269126060,Activo
+1798,529,florentina,grande quintero,CE,714508905,1973-01-09,Cl 173M Cr 67,yangyan@msn.com,(+57)3087116989,Activo
+6616,832,cayetano,coello fernandez,CC,690264368,1986-10-18,Cl 9X Cr 105E,benits@optonline.net,(+57) 305 254 43 97,Activo
+1529,687,florinda,gascon gonzalo,CC,51018117,1981-09-11,Cl 18 Cr 95,oevans@aol.com,(+57)3165075531,Activo
+2075,970,valeria,rios,CC,78541328,1990-08-17,Cl 152 Cr 24,sfoskett@yahoo.com,(+57) 305 872 64 43,Activo
+4530,693,blanca,moya fabregat,CC,948902299,1987-12-30,Cl 3N Cr 7ª,catalog@hotmail.com,+57 328 377 57 23,Activo
+7481,373,soraya,caceres marin,CC,68552546,1981-09-15,Cl 8ª Cr 94,preneel@verizon.net,(+57)6053929975,Activo
+4465,958,rufina,rossello sales,CC,722543322,1993-06-11,Cl 16A Cr 89,drezet@msn.com,(+57)6075851680,Inactivo
+5229,594,abril,almazan gargallo,CC,583328049,1975-04-20,Cl 91T Bis Cr 23T,symbolic@mac.com,(+57) 311 390 73 28,Activo
+3925,375,sandalio,pinto alcazar,CC,361908586,1984-03-14,Cl 6A Cr 3ª,melnik@mac.com,+573068166198,Activo
+8077,669,urbano,rossello llabres,CC,546009879,1970-03-03,Cl 65E Cr 33,vertigo@optonline.net,+57 602 348 27 96,Bloqueado
+4715,878,aurelio,ferreras granados,CC,915085758,1995-01-02,Cl 74 Cr 67,odlyzko@outlook.com,+57 311 029 56 98,Activo
+3801,988,aroa,pujol belmonte,Pasaporte,656264555,1982-01-05,Cl 99 Cr 7 Bis,nachbaur@yahoo.com,+573111126764,Activo
+5207,146,calista,de abril,CC,325362359,1993-09-28,Cl 83 Cr 4ª,cumarana@att.net,(+57) 302 676 18 24,Activo
+8930,857,teofilo,contreras tellez,CC,767451311,1992-01-29,Cl 1S Cr 7B,donev@outlook.com,+576035724913,Activo
+5724,651,milagros,cabanas,CC,366582875,1972-08-07,Cl 12 Cr 109J,hutton@me.com,(+57)3267064176,Activo
+7772,913,gonzalo,sans miro,CE,888208428,1980-05-08,Cl 2Y Cr 33J,corrada@mac.com,+57 324 957 45 00,Inactivo
+2567,986,sofia,bou zamorano,CC,339665732,1998-06-03,Cl 9L Cr 5X,chinthaka@aol.com,+573008014935,Activo
+8926,737,leandro gabino,cruz izaguirre,CC,808724507,1980-07-16,Cl 139 Cr 109O,cgreuter@yahoo.com,+576021807380,Activo
+2352,834,angelina,royo canals,CC,957878180,1999-09-11,Cl 63 Cr 148Y,ateniese@hotmail.com,(+57)6031530081,Activo
+4832,183,pio,fonseca granados,CC,301900965,1983-03-15,Cl 5ª Cr 32,mcmillan@optonline.net,+573007564567,Activo
+2129,827,luis miguel,cuadrado gual,Pasaporte,766966617,1984-04-15,Cl 22 Cr 23,gilmoure@yahoo.ca,(+57)3292944420,Bloqueado
+9468,973,blanca,lucas cortes,CC,97353318,1978-02-12,Cl 85 Cr 89,mbrown@live.com,(+57)3166345955,Activo
+6016,563,jose,luis arevalo,CC,648079648,1992-09-25,Cl 4ª Cr 7ª,qmacro@verizon.net,+57 606 480 05 39,Inactivo
+5663,572,leonel,sierra fajardo,CC,80534684,1970-12-12,Cl 113E Cr 128,staikos@gmail.com,(+57) 323 655 63 44,Inactivo
+9932,628,calixto,palacio casas,CC,405929781,1978-04-29,Cl 7S Cr 117N,knorr@comcast.net,+573235139018,Activo
+9882,739,eugenio,pla alegre,CC,304792601,1974-02-11,Cl 76 Bis Cr 55,gavinls@verizon.net,(+57)3175540911,Activo
+3856,922,daniela,arana,CC,430054054,1996-08-12,Cl 178 Cr 1C,scarolan@aol.com,(+57) 306 870 31 40,Activo
+9101,676,amancio,casares francisco,CC,506881321,1976-04-11,Cl 139 Cr 4ª,hutton@comcast.net,(+57)3044335507,Activo
+1748,352,leopoldo,lamas vilaplana,CC,176053613,1989-11-25,Cl 5 Este Cr 98,pizza@gmail.com,(+57) 312 703 26 76,Activo
+2993,424,pascual,del haro,CC,416597176,1996-05-28,Cl 93 Cr 183W,mobileip@yahoo.ca,+57 603 509 65 46,Activo
+8423,978,dionisia,llamas,CC,649100131,1998-01-16,Cl 65 Cr 71,horrocks@yahoo.com,(+57) 309 203 91 12,Activo
+1543,158,amada,falco llabres,Pasaporte,855051845,1987-02-25,Cl 53 Cr 164,sarahs@aol.com,+576052723603,Activo
+8724,165,oscar,enriquez acedo,CE,734449308,1988-08-31,Cl 130 Cr 158,fluffy@aol.com,+57 311 291 96 04,Activo
+4779,274,cecilio,bastida segui,CC,160749224,1971-11-21,Cl 83 Cr 65,jeffcovey@optonline.net,+573295710401,Activo
+7049,118,leocadia,aznar revilla,CE,875532512,1989-05-04,Cl 82 Cr 4E Bis,naoya@outlook.com,+57 301 601 71 91,Bloqueado
+7370,659,anabel,iniesta hierro,Pasaporte,748890198,1987-06-04,Cl 1ª Cr 97,staikos_7370@optonline.net,+57 607 549 92 30,Activo
+2601,180,lilia,narvaez batalla,CE,671610557,1982-05-09,Cl 88 Cr 81,mrobshaw@me.com,(+57) 604 857 25 58,Activo
+5271,693,adriana,egea luis,CC,152712484,1998-01-30,Cl 191I Cr 7ª,ajlitt@outlook.com,(+57) 605 746 13 11,Activo
+4027,226,pepita,del gallart,CC,590717751,1970-01-04,Cl 4ª Cr 1O Este,dawnsong@icloud.com,(+57)3031721710,Activo
+3602,849,luis angel,tellez conde,CC,854544367,1971-03-03,Cl 161D Cr 6ª,mirod@aol.com,+573015101793,Activo
+9670,809,angelina,sanmiguel gallo,CC,351038293,2000-02-25,Cl 27 Cr 180T,uraeus@aol.com,(+57)3053987325,Activo
+2362,687,catalina,sole porras,CC,336299032,1971-08-21,Cl 108R Cr 2D,treeves@comcast.net,+573272088964,Activo
+2768,825,manuela,benavides galvez,CC,93470290,1993-05-02,Cl 6ª Cr 74,gknauss@outlook.com,+57 319 128 51 13,Activo
+5781,483,teresa,lastra serra,CC,859932695,1987-09-22,Cl 49E Cr 78,duncand@mac.com,+57 320 557 99 01,Activo
+4558,577,marianela,jover carballo,CC,999437990,1995-08-19,Cl 137 Cr 88D,marioph@mac.com,(+57)3142408327,Activo
+9163,851,ainara,zaragoza crespi,CC,357194115,1977-06-08,Cl 4ª Cr 5 Bis,unreal@aol.com,+57 328 074 99 67,Activo
+4762,282,claudio porfirio,francisco muniz,CC,173429073,1979-06-30,Cl 191G Bis C Cr 72M,mdielmann@yahoo.ca,+576066341277,Activo
+3378,969,andres,felipe cuevas,CC,435301573,1987-10-16,Cl 4 Sur Cr 9L,kuparine@msn.com,(+57) 302 125 95 86,Inactivo
+1383,747,encarnacion,fiol domingo,CE,90540651,1999-06-28,Cl 18 Cr 97,pfitza@live.com,(+57) 309 782 44 99,Activo
+2889,273,fatima,de cisneros,CE,76548842,1989-10-02,Cl 16Z Cr 17,comdig@yahoo.ca,+57 314 769 60 19,Activo
+1825,916,maximino,vigil morante,CC,513769318,1995-06-05,Cl 91 Cr 69,sfoskett@verizon.net,+57 604 639 82 46,Activo
+3519,719,maria luisa,antunez giron,CC,908866629,1989-11-23,Cl 20 Cr 1ª,techie@gmail.com,+57 300 335 18 01,Activo
+7536,504,beatriz,bello godoy,CC,221143160,1974-03-01,Cl 5ª Cr 98,kjetilk@live.com,+57 306 940 44 58,Activo
+7137,482,eloisa rosalina,pont madrigal,CC,902598932,1980-03-07,Cl 1ª Cr 87,kourai@me.com,+57 311 569 10 96,Activo
+1637,903,iban,rios calvet,CC,719714595,1976-09-08,Cl 86 Cr 12,kempsonc@aol.com,+57 300 515 25 48,Activo
+5307,577,rufino,mascaro borrell,CC,87931869,1994-09-11,Cl 28 Cr 9ª,joglo@optonline.net,+57 306 366 84 93,Activo
+2880,661,felix,paredes mulet,CC,220662647,1970-10-19,Av Claudia Pacheco Soto Cr 143 Sur,pakaste@msn.com,(+57)6069427111,Activo
+6154,920,lucho,aznar,CC,521519706,1972-01-13,Cl 37 Cr 8ª,facet@gmail.com,(+57) 605 860 62 93,Activo
+8015,278,encarnacion,del aguilo,CC,134248336,1977-06-07,Cl 143 Cr 86,lstaf@me.com,+57 312 394 74 72,Inactivo
+7591,831,juan bautista,de campos,CC,591981502,1988-07-29,Cl 8ª Cr 7D,vganesh@hotmail.com,(+57)3027526744,Activo
+1804,342,leonor,ugarte salas,CC,950113292,1972-07-13,Cl 2 Sur Cr 44B,seebs@gmail.com,+573218265287,Activo
+6468,447,hermenegildo,de tolosa,CC,752416202,1999-04-24,Cl 79 Cr 61,baveja@msn.com,(+57)6087858845,Activo
+6810,169,lisandro,benavides barba,CC,765530649,1982-01-30,Cl 41 Cr 96,jdhedden@me.com,(+57)6072289552,Activo
+2071,519,zacarias,milla fernandez,CC,349241365,1980-03-24,Cl 194N Cr 63,nimaclea@mac.com,(+57) 313 770 80 65,Activo
+4085,887,leyre,ponce quintana,CC,532181022,1989-03-23,Cl 147 Cr 176Z Sur,wikinerd@msn.com,+576097243407,Activo
+9457,894,palmira,moreno manzanares,CC,514195635,1973-04-20,Cl 95 Cr 78,suresh@sbcglobal.net,+573205816166,Activo
+6232,764,amancio,bermudez flor,CE,282003675,1979-10-23,Cl 73 Cr 192,mhassel@outlook.com,+573160266080,Activo
+8374,114,baltasar,tellez vargas,CC,506411765,1985-01-08,Cl 117 Cr 57D,mcsporran@hotmail.com,+57 318 218 71 40,Activo
+2305,878,maria fernanda delia,rovira taboada,CC,134549061,1974-07-26,Cl 81K Cr 105,lcheng@outlook.com,+573296402156,Activo
+1958,285,hector,galvan,CC,819917668,1983-01-29,Cl 177 Cr 2E,weidai@att.net,+57 312 576 83 30,Activo
+8783,950,matias,rincon roldan,CC,663613988,1995-10-17,Cl 71 Cr 113,jpflip@hotmail.com,(+57)6035449505,Bloqueado
+4072,511,benigno,folch villaverde,Pasaporte,373777758,1988-04-17,Cl 7ª Cr 35,samavati_4072@me.com,(+57)3067221728,Activo
+5450,383,ariel,bejarano gimenez,CC,844509567,1990-11-10,Cl 111 Bis Cr 85,smpeters@gmail.com,+573283928561,Activo
+2980,200,roman,villa marques,CC,898646833,1993-12-24,Cl 3S Cr 113,cosimo@live.com,(+57)3275430251,Activo
+2609,920,dimas,ibarra dominguez,CC,489463430,1991-02-24,Cl 81 Cr 32,bdbrown@yahoo.ca,+573226148862,Bloqueado
+1171,772,inigo,pavon pol,CC,974663596,1999-11-08,Cl 36K Cr 22,psharpe@me.com,+573145427521,Inactivo
+5409,105,fernanda,olive garmendia,Pasaporte,453315070,1973-07-18,Cl 66 Cr 7H,moxfulder@sbcglobal.net,(+57)3167994726,Activo
+2162,777,norberto chucho,raya saldana,CC,24996061,1999-02-19,Cl 177 Cr 45,tattooman@comcast.net,(+57) 605 388 48 73,Activo
+2334,183,clementina,salcedo valenzuela,Pasaporte,849348787,1981-03-22,Cl 47 Cr 45,scottzed@live.com,+573187343642,Activo
+5539,561,brunilda,paredes vilar,CC,494151177,1977-01-07,Cl 104 Cr 5O,hampton@me.com,+57 321 887 89 97,Activo
+9270,584,ester,gras talavera,CC,902853498,1981-03-13,Cl 86 Cr 4ª,clkao@yahoo.com,(+57) 319 156 33 69,Activo
+2193,550,jonatan,del guzman,CC,376113619,1970-01-01,Cl 55 Cr 5V,amaranth@mac.com,+57 328 261 88 82,Activo
+5440,878,susanita,polo pons,CC,739478809,1999-03-27,Cl 9ª Cr 54U,pemungkah@verizon.net,(+57) 325 932 37 49,Activo
+4641,857,emiliano,galvan madrigal,CC,159695183,1981-05-30,Cl 78S Cr 14C,joehall@gmail.com,+57 609 657 99 25,Activo
+4840,973,palmira,tellez rosales,CE,315411533,1972-04-11,Cl 87 Cr 33Y,dexter_4840@yahoo.ca,+573091520323,Activo
+5188,448,gracia jose,puente belmonte,CC,469385163,1977-06-15,Cl 115U Cr 102,mbswan_5188@optonline.net,(+57)3060801526,Activo
+4795,340,ariel alejo,blazquez castells,CC,729304512,1973-10-27,Cl 76 Cr 30O,ntegrity@hotmail.com,(+57) 606 858 72 55,Activo
+7893,481,juan,antonio solana torrijos,CC,564784295,1992-10-02,Cl 39E Cr 194,kawasaki@att.net,+57 310 172 28 96,Activo
+4985,778,guiomar,jauregui ochoa,CC,525561357,1993-11-24,Cl 49 Cr 31D,library@yahoo.com,+573059273172,Inactivo
+1844,188,mayte,luz bolanos,CC,954678560,1975-03-27,Cl 5M Cr 3ª,kramulous@yahoo.ca,+576064209688,Activo
+6610,198,florencio,lopez diez,CC,156056261,1985-07-14,Cl 83 Cr 2ª,neonatus@comcast.net,(+57)3053225533,Activo
+9602,559,pepito,sedano pou,Pasaporte,203355483,1995-04-24,Cl 151 Cr 13,jpflip@aol.com,(+57) 306 243 47 09,Activo
+2426,436,aitana,gelabert guardiola,CC,694499890,1977-03-10,Cl 97 Cr 37,jnolan@att.net,(+57) 315 074 34 76,Activo
+7401,333,luis,pellicer fabregas,CC,776812470,1975-04-04,Cl 1Z Bis Y Cr 161 Bis,snunez@optonline.net,+573271923873,Activo
+7956,633,herminio,pereira redondo,CC,912288259,1978-07-04,Cl 82 Cr 64,sarahs@mac.com,(+57) 304 142 21 84,Activo
+2266,273,primitiva,quintero sacristan,CC,424349932,1980-05-19,Cl 56 Cr 103M,mosses@yahoo.ca,(+57)3097055700,Activo
+7955,489,evangelina,esparza mariscal,CC,316657600,1970-11-09,Cl 111 Cr 117K,parkes@att.net,+57 323 958 47 72,Bloqueado
+3806,479,celia,aguilo duran,CC,419016163,1986-08-12,Cl 17 Cr 101,rgiersig@outlook.com,+57 307 579 18 39,Activo
+1842,752,olivia,del grau,CC,78486824,1992-09-27,Cl 94 Cr 5J,kevinm@me.com,+573272141386,Activo
+2502,505,juan bautista,valderrama mendez,CC,514369671,1971-05-23,Cl 82 Cr 30,notaprguy@outlook.com,(+57) 300 954 84 29,Activo
+3345,539,carina,canete alcolea,CC,994909706,1986-09-23,Cl 170F Cr 8ª,johnh@gmail.com,(+57)6065325379,Activo
+4525,649,ambrosio,calatayud revilla,CC,437037548,1999-11-26,Cl 3ª Cr 177,erynf@mac.com,+57 308 465 49 08,Activo
+4008,364,ildefonso,de fajardo,CC,632037109,1974-09-16,Cl 162I Cr 60,jginspace@optonline.net,+573021735380,Activo
+8908,506,edelmira,baeza rodriguez,CC,596496601,1993-09-01,Cl 67 Cr 64,terjesa@att.net,(+57) 606 537 74 57,Activo
+8272,487,socorro,castro agusti,CC,338417886,1972-08-19,Cl 166V Cr 120,hermes@optonline.net,+573000508787,Inactivo
+7629,984,calixto,avila pintor,CC,231763199,1983-05-10,Cl 117 Cr 59M,hutton_7629@me.com,(+57) 328 862 23 05,Activo
+2405,252,severiano,de moran,CC,273181818,1995-01-31,Cl 92 Cr 105,jguyer@icloud.com,+57 603 179 24 17,Activo
+5079,482,olimpia,valls calvet,CC,231987808,1989-09-23,Cl 33D Sur Cr 174,iamcal_5079@me.com,+57 324 412 08 99,Activo
+5172,350,vito,del lara,CC,670515223,1976-11-02,Cl 50 Cr 79 Bis,wkrebs@icloud.com,(+57)3185817278,Activo
+8867,957,teodosio,arteaga nicolau,CE,279854689,1970-03-25,Cl 151G Este Cr 12,msherr@mac.com,+573079268683,Inactivo
+7397,999,juan luis,amoros calvet,CC,90258074,1985-04-03,Cl 8 Este Cr 10L,evans@hotmail.com,+573233970020,Activo
+9019,969,olivia,del marti,CC,603720335,1972-02-01,Cl 151 Bis Cr 36,dgriffith@sbcglobal.net,(+57)3110331201,Activo
+5573,206,nicanor,pena tudela,CC,378611588,1977-08-05,Cl 181 Cr 1Y,sakusha@me.com,(+57) 608 339 96 45,Activo
+2054,855,elena,torre blazquez,CC,716261849,1974-01-13,Cl 5ª Cr 140L,starstuff@live.com,(+57)3226604972,Activo
+2622,752,adriana,zabala,CC,736237251,1987-11-11,Cl 94 Cr 3ª,zeller@yahoo.com,+573191044656,Activo
+5310,273,yesica,carnero,CC,530725168,1979-03-29,Cl 32V Este Cr 31A Este,parasite@comcast.net,+57 312 363 52 00,Activo
+9634,859,luis miguel,gutierrez llabres,CC,988551042,1972-08-29,Cl 67 Cr 111W,sherzodr@aol.com,(+57)3158255953,Activo
+6799,284,josue,salom gonzalez,CC,533777875,1978-10-09,Cl 63 Cr 85,ajohnson@comcast.net,+573021640823,Activo
+5017,130,montserrat,tome,CC,462608738,1986-05-22,Cl 2ª Cr 41,hmbrand@optonline.net,(+57) 305 289 33 80,Activo
+1662,629,berta,izaguirre coll,CC,574272257,1987-01-20,Cl 7ª Cr 162I,clkao@optonline.net,(+57) 300 206 82 17,Activo
+5028,704,asuncion,arnaiz castellanos,CC,701674870,1998-09-03,Cl 98 Cr 1ª,kingma@mac.com,(+57)3187727325,Activo
+2684,305,nilo,porras casas,CC,725772536,1976-12-05,Cl 38E Cr 9J Este,mahbub@mac.com,(+57) 605 861 67 55,Activo
