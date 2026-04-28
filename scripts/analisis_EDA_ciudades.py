@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Cargar el archivo de ciudades
-ciudades = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_originales\bd_CIUDADES.csv', encoding='latin-1')
+ciudades = pd.read_csv(r'./datos_originales\bd_CIUDADES.csv', encoding='latin-1')
 
 # Ver cuántas filas y columnas tiene
 print(ciudades.shape)
@@ -31,6 +31,6 @@ ciudades = ciudades.rename(columns={
 print(ciudades.columns.tolist())
 
 # Guardar el archivo limpio
-ciudades.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CIUDADES_limpio.csv', index=False)
+ciudades.to_csv(r'./datos_limpios\bd_CIUDADES_limpio.csv', index=False)
 
 print("Archivo guardado correctamente")

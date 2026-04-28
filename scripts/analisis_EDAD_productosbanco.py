@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Cargar el archivo de productos del banco
-productos_banco = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_originales\bd_PRODUCTOS BANCO.csv', encoding='latin-1', sep=';')
+productos_banco = pd.read_csv(r'./datos_originales\bd_PRODUCTOS BANCO.csv', encoding='latin-1', sep=';')
 
 # Ver cuántas filas y columnas tiene
 print(productos_banco.shape)
@@ -33,6 +33,6 @@ print(productos_banco['tipo_producto'].unique())
 print(productos_banco.columns.tolist())
 
 # Guardar el archivo limpio
-productos_banco.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTOS_BANCO.csv', index=False)
+productos_banco.to_csv(r'./datos_limpios\bd_PRODUCTOS_BANCO.csv', index=False)
 
 print("Archivo guardado correctamente")

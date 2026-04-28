@@ -7,9 +7,9 @@ random.seed(42)
 np.random.seed(42)
 
 # Cargar las tablas que necesitamos
-clientes = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CLIENTES.csv')
-productos_banco = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTOS_BANCO.csv')
-ciudades = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CIUDADES_limpio.csv')
+clientes = pd.read_csv(r'./datos_limpios\bd_CLIENTES.csv')
+productos_banco = pd.read_csv(r'./datos_limpios\bd_PRODUCTOS_BANCO.csv')
+ciudades = pd.read_csv(r'./datos_limpios\bd_CIUDADES_limpio.csv')
 
 # Calcular la edad de cada cliente
 # HOY = (31 DE DICIEMBRE DE 2025 POR QUE ES CIERRE DE AÑO)
@@ -259,6 +259,6 @@ print("Tasas máximas:", producto_activo['tasa_interes_mensual'].max())
 print("Vencimiento antes del inicio:", (pd.to_datetime(producto_activo['fecha_vencimiento'], errors='coerce') < pd.to_datetime(producto_activo['fecha_inicio'])).sum())
 
 # Guardar el archivo
-producto_activo.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTO_ACTIVO.csv', index=False)
+producto_activo.to_csv(r'./datos_limpios\bd_PRODUCTO_ACTIVO.csv', index=False)
 
 print("Archivo guardado correctamente")

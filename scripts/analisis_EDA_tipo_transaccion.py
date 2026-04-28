@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Cargar el archivo de tipo de transacción
-tipo_transaccion = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_originales\bd_TIPO DE TRANSACCION.csv', encoding='latin-1', sep=';')
+tipo_transaccion = pd.read_csv(r'./datos_originales\bd_TIPO DE TRANSACCION.csv', encoding='latin-1', sep=';')
 
 # Ver cuántas filas y columnas tiene
 print(tipo_transaccion.shape)
@@ -40,6 +40,6 @@ print(tipo_transaccion.columns.tolist())
 print(tipo_transaccion)
 
 # Guardar el archivo limpio
-tipo_transaccion.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_TIPO_TRANSACCION.csv', index=False)
+tipo_transaccion.to_csv(r'./datos_limpios\bd_TIPO_TRANSACCION.csv', index=False)
 
 print("Archivo guardado correctamente")

@@ -4,9 +4,9 @@ random.seed(42)
 from datetime import date, timedelta
 
 # Cargamos las tablas que necesitamos
-producto_activo = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTO_ACTIVO.csv')
-clientes = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CLIENTES.csv')
-ciudades = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CIUDADES_limpio.csv')
+producto_activo = pd.read_csv(r'./datos_limpios\bd_PRODUCTO_ACTIVO.csv')
+clientes = pd.read_csv(r'./datos_limpios\bd_CLIENTES.csv')
+ciudades = pd.read_csv(r'./datos_limpios\bd_CIUDADES_limpio.csv')
 
 # Calcular edad de cada cliente
 hoy = date(2025, 12, 31)
@@ -175,6 +175,6 @@ print("Estado pago:", extracto['estado_pago'].value_counts().to_dict())
 print("Saldos negativos:", (extracto['pago_total_mes'] < 0).sum())
 
 # Guardar el archivo
-extracto.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_EXTRACTO.csv', index=False)
+extracto.to_csv(r'./datos_limpios\bd_EXTRACTO.csv', index=False)
 
 print("Archivo guardado correctamente")

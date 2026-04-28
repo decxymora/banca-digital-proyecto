@@ -3,9 +3,9 @@ import random
 random.seed(42)
 
 # Cargamos las tablas que necesitamos
-clientes = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CLIENTES.csv')
-productos_banco = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTOS_BANCO.csv')
-ciudades = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CIUDADES_limpio.csv')
+clientes = pd.read_csv(r'./datos_limpios\bd_CLIENTES.csv')
+productos_banco = pd.read_csv(r'./datos_limpios\bd_PRODUCTOS_BANCO.csv')
+ciudades = pd.read_csv(r'./datos_limpios\bd_CIUDADES_limpio.csv')
 
 # Calcular edad de cada cliente
 from datetime import date
@@ -141,6 +141,6 @@ print("Saldo promedio:", f"${producto_pasivo['saldo_actual'].mean():,.0f}")
 print("Cuota manejo:", producto_pasivo['cuota_manejo'].value_counts().to_dict())
 
 # Guardar el archivo
-producto_pasivo.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTO_PASIVO.csv', index=False)
+producto_pasivo.to_csv(r'./datos_limpios\bd_PRODUCTO_PASIVO.csv', index=False)
 
 print("Archivo guardado correctamente")

@@ -4,10 +4,10 @@ random.seed(42)
 from datetime import date
 
 # Cargamos las tablas que necesitamos
-extracto        = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_EXTRACTO.csv')
-producto_activo = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTO_ACTIVO.csv')
-clientes        = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CLIENTES.csv')
-ciudades        = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CIUDADES_limpio.csv')
+extracto        = pd.read_csv(r'./datos_limpios\bd_EXTRACTO.csv')
+producto_activo = pd.read_csv(r'./datos_limpios\bd_PRODUCTO_ACTIVO.csv')
+clientes        = pd.read_csv(r'./datos_limpios\bd_CLIENTES.csv')
+ciudades        = pd.read_csv(r'./datos_limpios\bd_CIUDADES_limpio.csv')
 
 hoy = date(2025, 12, 31)
 
@@ -125,6 +125,6 @@ print("Días mora promedio:", mora['dias_mora'].mean().round(0))
 print("Días mora máximo:", mora['dias_mora'].max())
 
 # Guardar el archivo
-mora.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_MORA.csv', index=False)
+mora.to_csv(r'./datos_limpios\bd_MORA.csv', index=False)
 
 print("Archivo guardado correctamente")

@@ -4,12 +4,12 @@ random.seed(42)
 from datetime import date, timedelta, datetime
 
 # Cargamos las tablas que necesitamos
-clientes        = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CLIENTES.csv')
-producto_activo = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTO_ACTIVO.csv')
-producto_pasivo = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTO_PASIVO.csv')
-tipo_trans      = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_TIPO_TRANSACCION.csv')
-extracto        = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_EXTRACTO.csv')
-ciudades        = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CIUDADES_limpio.csv')
+clientes        = pd.read_csv(r'./datos_limpios\bd_CLIENTES.csv')
+producto_activo = pd.read_csv(r'./datos_limpios\bd_PRODUCTO_ACTIVO.csv')
+producto_pasivo = pd.read_csv(r'./datos_limpios\bd_PRODUCTO_PASIVO.csv')
+tipo_trans      = pd.read_csv(r'./datos_limpios\bd_TIPO_TRANSACCION.csv')
+extracto        = pd.read_csv(r'./datos_limpios\bd_EXTRACTO.csv')
+ciudades        = pd.read_csv(r'./datos_limpios\bd_CIUDADES_limpio.csv')
 
 hoy = date(2025, 12, 31)
 
@@ -298,6 +298,6 @@ print(f"Canal más usado: {transacciones['canal'].value_counts().index[0]}")
 print(f"Tipo transaccion más frecuente: {transacciones['id_tipo_transaccion'].value_counts().index[0]}")
 
 # Guardar el archivo
-transacciones.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_TRANSACCIONES.csv', index=False)
+transacciones.to_csv(r'./datos_limpios\bd_TRANSACCIONES.csv', index=False)
 
 print("Archivo guardado correctamente")

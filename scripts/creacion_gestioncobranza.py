@@ -4,10 +4,10 @@ random.seed(42)
 from datetime import date, timedelta
 
 # Cargamos las tablas que necesitamos
-mora            = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_MORA.csv')
-producto_activo = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_PRODUCTO_ACTIVO.csv')
-clientes        = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CLIENTES.csv')
-ciudades        = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CIUDADES_limpio.csv')
+mora            = pd.read_csv(r'./datos_limpios\bd_MORA.csv')
+producto_activo = pd.read_csv(r'./datos_limpios\bd_PRODUCTO_ACTIVO.csv')
+clientes        = pd.read_csv(r'./datos_limpios\bd_CLIENTES.csv')
+ciudades        = pd.read_csv(r'./datos_limpios\bd_CIUDADES_limpio.csv')
 
 hoy = date(2025, 12, 31)
 
@@ -123,6 +123,6 @@ print("Total gestiones:", len(gestion_cobranza))
 print("Tipo contacto:", gestion_cobranza['tipo_contacto'].value_counts().to_dict())
 
 # Guardar el archivo
-gestion_cobranza.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_GESTION_COBRANZA.csv', index=False)
+gestion_cobranza.to_csv(r'./datos_limpios\bd_GESTION_COBRANZA.csv', index=False)
 
 print("Archivo guardado correctamente")

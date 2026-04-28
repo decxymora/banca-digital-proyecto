@@ -5,7 +5,7 @@ import pandas as pd
 
 # TABLA 1 DEPARTAMENTOS, ENCONDING POR SI TIENE TILDES O Ñ,
 
-departamentos = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_originales\bd_DEPARTAMENTOS.csv', encoding='latin-1')
+departamentos = pd.read_csv(r'./datos_originales\bd_DEPARTAMENTOS.csv', encoding='latin-1')
 
 # Ver cuantas filas y columnas tiene
 print(departamentos.shape)
@@ -34,5 +34,5 @@ departamentos = departamentos.rename(columns={
 print(departamentos.columns.tolist())
 
 #GUARDAR EL ARCHIVO LIMPIO
-departamentos.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_DEPARTAMENTOS_limpio.csv', index=False)
+departamentos.to_csv(r'./datos_limpios\bd_DEPARTAMENTOS_limpio.csv', index=False)
 

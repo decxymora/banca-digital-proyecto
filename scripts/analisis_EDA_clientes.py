@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Cargar el archivo de clientes
-clientes = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_originales\bd_CLIENTES.csv', encoding='latin-1')
+clientes = pd.read_csv(r'./datos_originales\bd_CLIENTES.csv', encoding='latin-1')
 
 # Ver cuántas filas y columnas tiene
 print(clientes.shape)
@@ -108,6 +108,6 @@ print("Emails duplicados después de corrección:", clientes['email'].duplicated
 print(clientes.head())
 
 # Guardar el archivo limpio
-clientes.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CLIENTES.csv', index=False)
+clientes.to_csv(r'./datos_limpios\bd_CLIENTES.csv', index=False)
 
 print("Archivo guardado correctamente")

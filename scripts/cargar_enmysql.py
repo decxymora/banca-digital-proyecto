@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 # Configuración de conexión a MySQL
 # Cambia la contraseña si ninguna funciona
 USUARIO    = 'root'
-CONTRASENA = 'root'      
+CONTRASENA = 'poner_aqui_tu_contraseña'  # Cambia esto por tu contraseña real
 HOST       = 'localhost'
 PUERTO     = '3306'
 BD         = 'BANCA_DIGITAL'
@@ -23,7 +23,7 @@ except Exception as e:
 
     # Ruta de los archivos limpios
     
-RUTA = r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\\'
+RUTA = r'./datos_limpios\\'
 
 # Orden de carga — debo respetar las dependencias entre tablas
 # Las tablas que tienen FK deben cargarse después de sus tablas padre

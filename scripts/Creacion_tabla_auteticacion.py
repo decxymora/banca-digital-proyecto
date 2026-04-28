@@ -8,7 +8,7 @@ import random
 random.seed(42)
 
 # Cargamos clientes porque necesitamos los ids y los estados
-clientes = pd.read_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_CLIENTES.csv')
+clientes = pd.read_csv(r'./datos_limpios\bd_CLIENTES.csv')
 
 # Ver cuántos clientes tenemos
 print("Total clientes:", len(clientes))
@@ -60,6 +60,6 @@ print(autenticacion.head())
 print(autenticacion['estado'].value_counts())
 
 # Guardar el archivo
-autenticacion.to_csv(r'C:\Users\angie\OneDrive\Escritorio\Proyecto_ banca\datos_limpios\bd_AUTENTICACION_CLIENTE.csv', index=False)
+autenticacion.to_csv(r'./datos_limpios\bd_AUTENTICACION_CLIENTE.csv', index=False)
 
 print("Archivo guardado correctamente")
