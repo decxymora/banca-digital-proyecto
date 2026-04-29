@@ -89,7 +89,7 @@ Información personal y de contacto de cada cliente del banco. El campo `estado`
 | `id_ciudad` | INT | Ciudad de residencia (FK → ciudades) |
 | `nombre` | VARCHAR(100) | Nombre del cliente |
 | `apellido` | VARCHAR(100) | Apellido del cliente |
-| `tipo_documento` | ENUM | `CC` Cédula de Ciudadanía / `TI` Tarjeta de Identidad / `CE` Cédula de Extranjería / `Pasaporte` |
+| `tipo_documento` | ENUM | `CC` Cédula de Ciudadanía  / `CE` Cédula de Extranjería / `Pasaporte` |
 | `numero_documento` | VARCHAR(20) | Número de identificación — único por cliente |
 | `fecha_nacimiento` | DATE | Fecha de nacimiento — usada para calcular edad y validar mayoría de edad |
 | `direccion` | VARCHAR(150) | Dirección de residencia |
