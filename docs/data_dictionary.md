@@ -89,7 +89,7 @@ Información personal y de contacto de cada cliente del banco. El campo `estado`
 | `id_ciudad` | INT | Ciudad de residencia (FK → ciudades) |
 | `nombre` | VARCHAR(100) | Nombre del cliente |
 | `apellido` | VARCHAR(100) | Apellido del cliente |
-| `tipo_documento` | ENUM | `CC` Cédula de Ciudadanía  / `CE` Cédula de Extranjería / `Pasaporte` |
+| `tipo_documento` | ENUM | `CC` Cédula de Ciudadanía / `TI` Tarjeta de Identidad / `CE` Cédula de Extranjería / `Pasaporte` |
 | `numero_documento` | VARCHAR(20) | Número de identificación — único por cliente |
 | `fecha_nacimiento` | DATE | Fecha de nacimiento — usada para calcular edad y validar mayoría de edad |
 | `direccion` | VARCHAR(150) | Dirección de residencia |
@@ -222,7 +222,7 @@ Seguimiento de clientes en situación de morosidad. Solo puede existir un regist
 | `interes_mora` | DECIMAL(18,2) | Intereses generados por el incumplimiento de pago |
 | `estado_mora` | ENUM | `Activa` / `En Gestion` / `Liquidada` — por defecto `Activa` |
 
-> **Registros:** 2.997  
+> **Registros:** 286 — un registro por producto en mora (el extracto más antiguo impago).  
 > **Regla de negocio clave:** `capital_vencido + interes_mora` = deuda total del cliente en mora. El campo `dias_mora` es el principal indicador de severidad para priorizar la gestión de cobranza.
 
 ---
@@ -238,7 +238,7 @@ Registro de todas las acciones realizadas para recuperar cartera en mora. Cada c
 | `tipo_contacto` | ENUM | Canal usado: `Llamada` / `Correo` / `SMS` / `Visita Domiciliaria` |
 | `resultado_gestion` | TEXT | Descripción del resultado del contacto — ej: "Cliente promete pagar el viernes" |
 
-> **Registros:** 5.831  
+> **Registros:** 535 — promedio de 2 gestiones por mora activa.  
 > **Uso analítico:** la relación entre `tipo_contacto` y el `estado_mora` resultante permite medir qué canal de cobranza es más efectivo para recuperar cartera.
 
 ---

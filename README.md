@@ -8,7 +8,7 @@
 Diseño e implementación de una base de datos relacional para un banco digital colombiano.  
 El proyecto abarca el modelado de datos, generación y limpieza de datos con Python, carga en MySQL y análisis de negocio enfocado en tres áreas críticas: **seguridad**, **cartera vencida** y **eficiencia de cobranza**.
 
-> Base de datos con **12 tablas** y **483.411 registros** generados con Python y cargados en MySQL.
+> Base de datos con **12 tablas** y **475.434 registros** generados con Python y cargados en MySQL.
 
 ---
 
@@ -87,8 +87,8 @@ La base de datos contiene 12 tablas organizadas en cuatro dominios:
 | producto_pasivo | 1.482 | Cuentas de ahorro y corriente |
 | extracto | 49.114 | Facturación mensual por producto |
 | transacciones | 419.623 | Movimientos financieros |
-| mora | 2.997 | Registro de cartera vencida |
-| gestion_cobranza | 5.831 | Procesos de recuperación de cartera |
+| mora | 286 | Registro de cartera vencida |
+| gestion_cobranza | 535 | Procesos de recuperación de cartera |
 
 ---
 
@@ -131,7 +131,7 @@ Las consultas de negocio están organizadas en tres bloques. Cada consulta inclu
 | Fase | Estado | Descripción |
 |---|---|---|
 | Fase 1 — Modelado y DDL | ✅ Completado | Diseño de 12 tablas, relaciones y restricciones |
-| Fase 2 — Generación de datos | ✅ Completado | 483.411 registros generados y cargados en MySQL |
+| Fase 2 — Generación de datos | ✅ Completado | 475.434 registros generados y cargados en MySQL |
 | Fase 3 — Consultas de negocio | 🟡 En proceso | 13 consultas desarrolladas, resultados en validación |
 | Fase 4 — Visualización | 🔜 Pendiente | Dashboard en Power BI sobre resultados del análisis |
 

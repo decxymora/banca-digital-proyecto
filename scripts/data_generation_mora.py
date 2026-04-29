@@ -36,8 +36,11 @@ producto_activo = producto_activo.drop_duplicates(subset='id_producto_activo')
 # Crear índice rápido de producto_activo
 prod_idx = producto_activo.set_index('id_producto_activo')
 
-# Filtrar extractos en mora
+# Filtrar extractos en mora — solo el más antiguo por producto
 extractos_mora = extracto[extracto['estado_pago'] == 'Mora'].copy()
+extractos_mora['fecha_limite_pago'] = pd.to_datetime(extractos_mora['fecha_limite_pago'])
+extractos_mora = extractos_mora.sort_values('fecha_limite_pago')
+extractos_mora = extractos_mora.drop_duplicates(subset='id_producto_activo', keep='first')
 
 # Filtrar solo productos En_Mora o Castigada
 ids_prod_mora = set(
