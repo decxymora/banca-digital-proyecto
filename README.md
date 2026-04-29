@@ -5,10 +5,31 @@
 
 ## 📌 Descripción
 
-Diseño e implementación de una base de datos relacional para un banco digital colombiano.  
-El proyecto abarca el modelado de datos, generación y limpieza de datos con Python, carga en MySQL y análisis de negocio enfocado en tres áreas críticas: **seguridad**, **cartera vencida** y **eficiencia de cobranza**.
+Diseño e implementación de una base de datos relacional para un banco digital colombiano orientada al análisis financiero, gestión de riesgo crediticio y eficiencia de cobranza.
+
+El proyecto abarca el modelado de datos, generación y limpieza de datos con Python, carga en MySQL y análisis de negocio enfocado en responder tres preguntas clave:
+
+- 💰 **¿Qué tan rentable es el banco?** — análisis de activos, pasivos e ingresos proyectados
+- 📉 **¿Cuánto dinero está en riesgo?** — cartera vencida, mora y concentración geográfica
+- 📞 **¿Qué tan eficiente es la cobranza?** — tasa de recuperación y efectividad por canal
 
 > Base de datos con **12 tablas** y **475.434 registros** generados con Python y cargados en MySQL.
+
+---
+
+## 📊 Indicadores Financieros del Modelo
+
+| Indicador | Valor |
+|---|---|
+| Cartera activa (total prestado) | $128.440.200.000 |
+| Total depósitos clientes | $136.544.315.000 |
+| Ingresos por intereses proyectados/mes | $1.959.337.770 |
+| Cartera en riesgo (mora activa) | $2.068.956.605 |
+| Tasa de morosidad | 1.08% |
+| Tasa de recuperación de cartera | 12.24% |
+| Clientes únicos en mora | 250 (25% de la base) |
+
+> Los depósitos superan la cartera prestada — el banco mantiene liquidez positiva. La tasa de morosidad del 1.08% está por debajo del promedio del sector financiero colombiano (3-8%), sin embargo la tasa de recuperación del 12.24% indica una oportunidad crítica de mejora en el proceso de cobranza.
 
 ---
 
@@ -94,35 +115,41 @@ La base de datos contiene 12 tablas organizadas en cuatro dominios:
 
 ## 📈 Análisis de negocio
 
-Las consultas de negocio están organizadas en tres bloques. Cada consulta incluye el contexto de negocio que responde.
+Las consultas de negocio están organizadas en tres bloques orientados a la toma de decisiones financieras. *(En proceso de validación grupal — próximamente en `sql/consultas_negocio.sql`)*
 
-### 🔐 Bloque 1 — Seguridad
-
-| # | Consulta | Pregunta de negocio |
-|---|---|---|
-| Q1 | Intentos fallidos de autenticación | ¿Qué cuentas están bajo ataque o riesgo de acceso no autorizado? |
-| Q2 | Cuentas bloqueadas con historial de acceso | ¿Qué usuarios fueron bloqueados y cuándo fue su último ingreso? |
-| Q3 | Transacciones por canal | ¿Qué canales concentran mayor volumen y monto transaccional? |
-| Q4 | Cuentas activas sin ingreso registrado | ¿Existen cuentas nunca utilizadas que representen riesgo de suplantación? |
-
-### 💳 Bloque 2 — Mora y Cartera Vencida
+### 💰 Bloque 1 — Rentabilidad y Salud Financiera
 
 | # | Consulta | Pregunta de negocio |
 |---|---|---|
-| Q5 | Clientes en mora activa con detalle de deuda | ¿Quiénes deben, cuánto deben y hace cuántos días están en mora? |
-| Q6 | Cartera vencida por tipo de producto | ¿Qué productos generan mayor riesgo de impago? |
-| Q7 | Cartera vencida por departamento | ¿En qué regiones se concentra el mayor riesgo crediticio? |
-| Q8 | Moras sin gestión de cobranza registrada | ¿Qué clientes cayeron en mora sin ser contactados? |
-| Q9 | Clientes con saldo disponible y mora activa | ¿Qué clientes tienen dinero en cuenta pero no han pagado su deuda? |
+| Q1 | Total activos vs pasivos | ¿Cuánto dinero tiene prestado el banco y cuánto tienen depositado los clientes? |
+| Q2 | Ingresos proyectados por intereses | ¿Cuánto genera el banco mensualmente por su cartera activa? |
+| Q3 | Rentabilidad por tipo de producto | ¿Qué productos generan más ingresos al banco? |
+
+### 📉 Bloque 2 — Cartera Vencida y Mora
+
+| # | Consulta | Pregunta de negocio |
+|---|---|---|
+| Q4 | Clientes en mora activa con detalle de deuda | ¿Quiénes deben, cuánto deben y hace cuántos días están en mora? |
+| Q5 | Cartera vencida por tipo de producto | ¿Qué productos generan mayor riesgo de impago? |
+| Q6 | Cartera vencida por departamento | ¿En qué regiones se concentra el mayor riesgo crediticio? |
+| Q7 | Moras sin gestión de cobranza registrada | ¿Qué clientes cayeron en mora sin ser contactados? |
+| Q8 | Clientes con saldo disponible y mora activa | ¿Qué clientes tienen dinero en cuenta pero no han pagado su deuda? |
 
 ### 📞 Bloque 3 — Eficiencia de Cobranza
 
 | # | Consulta | Pregunta de negocio |
 |---|---|---|
-| Q10 | Tasa de resolución por canal de contacto | ¿Qué canal de cobranza es más efectivo para recuperar cartera? |
-| Q11 | Tiempo promedio de resolución de mora | ¿Cuántos días tarda en promedio cerrar una mora por tipo de producto? |
-| Q12 | Casos críticos con múltiples gestiones sin liquidar | ¿Qué clientes requieren escalamiento a proceso jurídico? |
-| Q13 | KPIs ejecutivos de cartera | ¿Cuál es el estado global de la cartera del banco? |
+| Q9 | Tasa de resolución por canal de contacto | ¿Qué canal de cobranza es más efectivo para recuperar cartera? |
+| Q10 | Tiempo promedio de resolución de mora | ¿Cuántos días tarda en promedio cerrar una mora por tipo de producto? |
+| Q11 | Casos críticos con múltiples gestiones sin liquidar | ¿Qué clientes requieren escalamiento a proceso jurídico? |
+| Q12 | KPIs ejecutivos de cartera | ¿Cuál es el estado global de la cartera del banco? |
+
+### 🔐 Bloque 4 — Seguridad
+
+| # | Consulta | Pregunta de negocio |
+|---|---|---|
+| Q13 | Intentos fallidos de autenticación | ¿Qué cuentas están bajo riesgo de acceso no autorizado? |
+| Q14 | Transacciones por canal | ¿Qué canales concentran mayor volumen y riesgo transaccional? |
 
 ---
 
