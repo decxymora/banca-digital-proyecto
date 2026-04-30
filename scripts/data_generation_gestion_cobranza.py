@@ -26,7 +26,7 @@ mora = mora.merge(ciudades[['id_ciudad', 'id_departamento']], on='id_ciudad', ho
 
 # Solo moras Activa y En Gestión generan gestiones
 # Las Liquidadas ya se cerraron
-moras_gestionables = mora[mora['estado_mora'].isin(['Activa', 'En Gestión'])]
+moras_gestionables = mora.copy()
 print("Moras gestionables:", len(moras_gestionables))
 
 # Resultados posibles por tipo de contacto — coherentes con la realidad
