@@ -25,7 +25,7 @@ El proyecto abarca el modelado de datos, generación y limpieza de datos con Pyt
 | Total depósitos clientes | $136.544.315.000 |
 | Ingresos por intereses proyectados/mes | $1.959.337.770 |
 | Cartera en riesgo (mora activa) | $2.068.956.605 |
-| Tasa de morosidad | 1.08% |
+| Tasa de morosidad | 1.20% |
 | Tasa de recuperación de cartera | 12.24% |
 | Clientes únicos en mora | 250 (25% de la base) |
 
@@ -109,7 +109,7 @@ La base de datos contiene 12 tablas organizadas en cuatro dominios:
 | extracto | 49.114 | Facturación mensual por producto |
 | transacciones | 419.623 | Movimientos financieros |
 | mora | 286 | Registro de cartera vencida |
-| gestion_cobranza | 535 | Procesos de recuperación de cartera |
+| gestion_cobranza | 632 | Procesos de recuperación de cartera |
 
 ---
 
