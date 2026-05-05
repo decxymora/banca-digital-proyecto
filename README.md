@@ -115,7 +115,7 @@ La base de datos contiene 12 tablas organizadas en cuatro dominios:
 
 ## 📈 Análisis de negocio
 
-Las consultas de negocio están organizadas en tres bloques orientados a la toma de decisiones financieras. *(En proceso de validación grupal — próximamente en `sql/consultas_negocio.sql`)*
+Las consultas de negocio están organizadas en tres bloques orientados a la toma de decisiones financieras. Disponibles en sql/consultas_negocio.sql y docs/consultas_negocio.md
 
 ### 💰 Bloque 1 — Rentabilidad y Salud Financiera
 
@@ -159,7 +159,7 @@ Las consultas de negocio están organizadas en tres bloques orientados a la toma
 |---|---|---|
 | Fase 1 — Modelado y DDL | ✅ Completado | Diseño de 12 tablas, relaciones y restricciones |
 | Fase 2 — Generación de datos | ✅ Completado | 475.434 registros generados y cargados en MySQL |
-| Fase 3 — Consultas de negocio | 🟡 En proceso | 13 consultas desarrolladas, resultados en validación |
+| Fase 3 — Consultas de negocio | ✅ Completado | 14 consultas desarrolladas, con sus respectivos hallazgos y recomendaciociones | Disponibles en sql/consultas_negocio.sql y docs/consultas_negocio.md | 
 | Fase 4 — Visualización | 🔜 Pendiente | Dashboard en Power BI sobre resultados del análisis |
 
 ---
@@ -176,4 +176,4 @@ Grupo 1 — Bootcamp Análisis de Datos | Betek 2026
 
 ## 📄 Licencia
 
-Proyecto académico — uso educativo.
+Proyecto académico.
