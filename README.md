@@ -160,7 +160,7 @@ Las consultas de negocio están organizadas en tres bloques orientados a la toma
 | Fase 1 — Modelado y DDL | ✅ Completado | Diseño de 12 tablas, relaciones y restricciones |
 | Fase 2 — Generación de datos | ✅ Completado | 475.434 registros generados y cargados en MySQL |
 | Fase 3 — Consultas de negocio | ✅ Completado | 14 consultas desarrolladas, con sus respectivos hallazgos y recomendaciociones | Disponibles en sql/consultas_negocio.sql y docs/consultas_negocio.md | 
-| Fase 4 — Visualización | 🔜 Pendiente | Dashboard en Power BI sobre resultados del análisis |
+| Fase 4 — Visualización | ✅ Completado   | Dashboard ejecutivo Power BI - 3 paginas interactivas | 
 
 ---
 
